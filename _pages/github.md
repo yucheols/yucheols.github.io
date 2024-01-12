@@ -6,7 +6,7 @@ classes: wide
 author_profile: true
 ---
 
-<span style="font-size: 12pt;"> __Below are my GitHub repos associated to workshops and recently published studies__ </span>
+<span style="font-size: 12pt;"> __Below are my GitHub repos associated with workshops and recently published studies__ </span>
 
 [Non-native Lycodon](https://github.com/yucheols/Lycodon_ENM_ver2){: .btn .btn--info .text-center}
 
