@@ -12,11 +12,115 @@ author_profile: true
 <figure>
     <a href="/assets/images/gallery3/KakaoTalk_20240113_035319539.jpg"><img src="/assets/images/gallery3/KakaoTalk_20240113_035319539.jpg"></a>
      <figcaption>Andrias japonicus</figcaption>
-</figure>     
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery3/KakaoTalk_20240113_035319539_01.jpg"><img src="/assets/images/gallery3/KakaoTalk_20240113_035319539_01.jpg"></a>
+     <figcaption>Hebius vibakari</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery3/KakaoTalk_20240113_035319539_05.jpg.jpg"><img src="/assets/images/gallery3/KakaoTalk_20240113_035319539_05.jpg"></a>
+     <figcaption>Euprepiophis conspicillata</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery3/KakaoTalk_20240113_035319539_06.jpg"><img src="/assets/images/gallery3/KakaoTalk_20240113_035319539_06.jpg"></a>
+     <figcaption>Gloydius blomhoffii</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery3/KakaoTalk_20240113_035319539_13.jpg"><img src="/assets/images/gallery3/KakaoTalk_20240113_035319539_13.jpg"></a>
+     <figcaption>Cynops pyrrhogaster</figcaption>
+</figure> 
 
 ## Taiwan (2023)
+<figure>
+    <a href="/assets/images/gallery2/baibu.jpg"><img src="/assets/images/gallery2/baibu.jpg"></a>
+     <figcaption>Deinagkistrodon acutus</figcaption>
+</figure> 
 
-## California, USA (2018)
+<figure>
+    <a href="/assets/images/gallery2/carinata.jpg"><img src="/assets/images/gallery2/carinata.jpg"></a>
+     <figcaption>Elaphe carinata</figcaption>
+</figure>  
+
+<figure>
+    <a href="/assets/images/gallery2/beauty.jpg"><img src="/assets/images/gallery2/beauty.jpg"></a>
+     <figcaption>Elaphe taeniura</figcaption>
+</figure>   
+
+<figure>
+    <a href="/assets/images/gallery2/oreo.jpg"><img src="/assets/images/gallery2/oreo.jpg"></a>
+     <figcaption>Oreocryptophis porphyraceus</figcaption>
+</figure>   
+
+<figure>
+    <a href="/assets/images/gallery2/Boiga.jpg"><img src="/assets/images/gallery2/Boiga.jpg"></a>
+     <figcaption>Boiga kraepelini</figcaption>
+</figure>   
+
+<figure>
+    <a href="/assets/images/gallery2/major.jpg"><img src="/assets/images/gallery2/major.jpg"></a>
+     <figcaption>Ptyas major</figcaption>
+</figure>   
+
+<figure>
+    <a href="/assets/images/gallery2/ruh.jpg"><img src="/assets/images/gallery2/ruh.jpg"></a>
+     <figcaption>Lycodon ruhstrati</figcaption>
+</figure>   
+
+<figure>
+    <a href="/assets/images/gallery2/pareas.jpg"><img src="/assets/images/gallery2/pareas.jpg"></a>
+     <figcaption>Pareas atayal</figcaption>
+</figure>   
+
+<figure>
+    <a href="/assets/images/gallery2/blind.jpg"><img src="/assets/images/gallery2/blind.jpg"></a>
+     <figcaption>Indotyphlops braminus</figcaption>
+</figure>   
+
+<figure>
+    <a href="/assets/images/gallery2/trime.jpg"><img src="/assets/images/gallery2/trime.jpg"></a>
+     <figcaption>Trimeresurus stejnegeri</figcaption>
+</figure>   
+
+<figure>
+    <a href="/assets/images/gallery2/proto.jpg"><img src="/assets/images/gallery2/proto.jpg"></a>
+     <figcaption>Protobothrops mucrosquamatus</figcaption>
+</figure>   
+
+<figure>
+    <a href="/assets/images/gallery2/odo.jpg"><img src="/assets/images/gallery2/odo.jpg"></a>
+     <figcaption>Odorrana swinhoana</figcaption>
+</figure>   
+
+<figure>
+    <a href="/assets/images/gallery2/zhang.jpg"><img src="/assets/images/gallery2/zhang.jpg"></a>
+     <figcaption>Zhangixalus moltrechti</figcaption>
+</figure>   
+
+<figure>
+    <a href="/assets/images/gallery2/bankor.jpg"><img src="/assets/images/gallery2/bankor.jpg"></a>
+     <figcaption>Bufo bankorensis</figcaption>
+</figure>   
+
+<figure>
+    <a href="/assets/images/gallery2/dutta.jpg"><img src="/assets/images/gallery2/dutta.jpg"></a>
+     <figcaption>Duttaphrynus melanostictus</figcaption>
+</figure>   
+<figure>
+    <a href="/assets/images/gallery2/shrew.jpg"><img src="/assets/images/gallery2/shrew.jpg"></a>
+     <figcaption>Cute little (actually pretty big) shrew</figcaption>
+</figure>   
+
+<figure>
+    <a href="/assets/images/gallery2/roach.jpg"><img src="/assets/images/gallery2/roach.jpg"></a>
+     <figcaption>Huge cockroach</figcaption>
+</figure>   
+
+
+## USA (2018)
 <figure>
     <a href="/assets/images/gallery1/Crotalus oreganus.jpg"><img src="/assets/images/gallery1/Crotalus oreganus.jpg"></a>
      <figcaption>Crotalus o. oreganus</figcaption>
@@ -51,3 +155,8 @@ author_profile: true
     <a href="/assets/images/gallery1/taricha.jpeg"><img src="/assets/images/gallery1/taricha.jpeg"></a>
      <figcaption>Taricha granulosa</figcaption>
 </figure>   
+
+<figure>
+    <a href="/assets/images/gallery1/20180320_214713.jpg"><img src="/assets/images/gallery1/20180320_214713.jpg"></a>
+     <figcaption>Alligator mississippiensis</figcaption>
+</figure>  
