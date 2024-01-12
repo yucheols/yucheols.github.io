@@ -6,7 +6,7 @@ permalink: /publications/
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=aCC7bW8AAAAJ&hl=ko){: .btn .btn--info .text-center}
 
-† Indicates co-first authorship
+__*† Indicates co-first authorship*__
 
 ## 2024
 <span style="font-size: 14pt;"> __Y Shin†__, K Heo†, SN Othman, Y Jang, M-S Min, A Borzée. 2024. Tracing the geographic origin of a non-native Red-banded Snake (Colubridae: *Lycodon rufozonatus*) found on Jeju Island, Republic of Korea. __*Herpetologica*__ 80. [PDF]</span>
