@@ -139,7 +139,7 @@ footer:
       icon: "fab fa-fw fa-facebook-square"
       url: https://www.facebook.com/shin.yucheol.7/
     - label: "ResearchGate"
-      icon: /assests/images/rglogo.png
+      icon: "/assests/images/rglogo.png"
       url: https://www.researchgate.net/profile/Yucheol-Shin
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
