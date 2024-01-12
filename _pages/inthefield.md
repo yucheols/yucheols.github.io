@@ -14,6 +14,7 @@ gallery:
     image-path: /assets/images/gallery3/KakaoTalk_20240113_035319539.jpg
     alt: Andrias japonicus
 
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
 ## Taiwan (2023)
 
