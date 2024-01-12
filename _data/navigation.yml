@@ -12,3 +12,6 @@ main:
     url: https://github.com/yucheols
   - title: "Contact"
     url: https://yucheols.github.io/contact/
+
+header_pages:
+   -about.md 
