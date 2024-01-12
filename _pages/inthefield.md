@@ -1,23 +1,16 @@
 ---
-layout: category #or page
+layout: single #or page
 title: In the field
 permalink: /inthefield/
 classes: wide
 author_profile: true
 ---
 
-## Japan 2023
+## Japan (2023)
+{% include gallery id="gallery1" images=site.data.gallery1 %}
 
-## Taiwan 2023
+## Taiwan (2023)
 
-## South Korea 2023
+## South Korea (2019 - 2023)
 
-## South Korea 2022
-
-## South Korea 2021
-
-## South Korea 2020
-
-## South Korea 2019
-
-## USA 2018
+## USA (2018)

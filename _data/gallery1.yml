@@ -1,0 +1,7 @@
+# Example for _data/gallery1.yml
+- image_path: /assets/images/JP2023/KakaoTalk_20240113_035319539.jpg
+  alt: "Andrias japonicus"
+- image_path: /assets/images/JP2023/KakaoTalk_20240113_035319539_01.jpg
+  alt: "Hebius vibakari"
+- image_path: /assets/images/JP2023/KakaoTalk_20240113_035319539_06.jpg
+  alt: "Gloydius blomhoffii"
