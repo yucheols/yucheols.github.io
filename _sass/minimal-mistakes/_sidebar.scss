@@ -62,12 +62,11 @@
   }
 
   img {
-    max-width: 160%;
-    border-radius: 50%;
+    width: 100%;
 
-    /* &.emoji {
+    &.emoji {
       width: 20px;
-      height: 20px; */
+      height: 20px;
     }
   }
 }
