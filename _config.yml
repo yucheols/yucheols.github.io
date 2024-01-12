@@ -104,7 +104,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yucheol Shin"
+  name             : #"Yucheol Shin"
   avatar           : "/assets/images/profile.png"
   bio              : "Herpetologist and evolutionaty biologist from South Korea"
   location         : "South Korea"
