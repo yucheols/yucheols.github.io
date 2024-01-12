@@ -10,7 +10,7 @@ permalink: /publications/
 <span style="font-size: 14pt;"> Y Shin, K Heo, SN Othman, Y Jang, M-S Min, A Borzée. 2024. Tracing the geographic origin of a non-native Red-banded Snake (Colubridae: Lycodon rufozonatus) found on Jeju Island, Republic of Korea. Herpetologica 80. [PDF]</span>
 
 ## 2023
-<span style="font-size: 14pt;"> Y Peng, Y Li, G Cao, H Li, Y Shin, Z Piao, F Perez, W Zhu, A Borzée. 2023. Estimation of habitat suitability and landscape connectivity for Liaoning and Jilin clawed salamanders (Hynobiidae: Onychodactylus) in the transboundary region between the People’s Republic of China and the Democratic People’s Republic of Korea. Global Ecology and Conservation 48: e02694. [PDF]("/assets/publications/Peng_et_al_2023.pdf") </span>
+<span style="font-size: 14pt;"> Y Peng, Y Li, G Cao, H Li, Y Shin, Z Piao, F Perez, W Zhu, A Borzée. 2023. Estimation of habitat suitability and landscape connectivity for Liaoning and Jilin clawed salamanders (Hynobiidae: Onychodactylus) in the transboundary region between the People’s Republic of China and the Democratic People’s Republic of Korea. Global Ecology and Conservation 48: e02694. [PDF](/assets/publications/Peng_et_al_2023.pdf) </span>
 
 J Li, Y Shin, M Hong, Y Jang, A Borzée. 2023. Is ultra-violet fluorescence a trait related to breeding in the Mongolian racerunner (Eremias argus; Lacertidae, Reptilia)? Journal of Biological Research – Thessaloniki 30:3.
 
