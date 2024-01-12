@@ -8,14 +8,14 @@ permalink: /inthefield/
 
 ## Taiwan 2023
 
-## Korea 2023
+## South Korea 2023
 
-## Korea 2022
+## South Korea 2022
 
-## Korea 2021
+## South Korea 2021
 
-## Korea 2020
+## South Korea 2020
 
-## Korea 2019
+## South Korea 2019
 
 ## USA 2018
