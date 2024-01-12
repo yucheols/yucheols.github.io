@@ -2,6 +2,8 @@
 layout: single #or page
 title: In the field
 permalink: /inthefield/
+classes: wide
+author_profile: true
 ---
 
 ## Japan 2023
