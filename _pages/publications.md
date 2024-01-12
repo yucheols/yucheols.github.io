@@ -3,6 +3,7 @@ layout: single #or page
 title: Publications
 permalink: /publications/
 classes: wide
+author_profile: true
 ---
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=aCC7bW8AAAAJ&hl=ko){: .btn .btn--info .text-center}

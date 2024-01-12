@@ -3,6 +3,7 @@ layout: single #or page
 title: GitHub
 permalink: /github/
 classes: wide
+author_profile: true
 ---
 
 <span style="font-size: 12pt;"> __Below are my GitHub repos associated to workshops and recently published studies__ </span>
