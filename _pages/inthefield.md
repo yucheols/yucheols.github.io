@@ -10,13 +10,13 @@ author_profile: true
 
 ## Japan (2023)
 <div class="image-grid">
-  <div class="image-column">
+  <div class="image-row">
     <img src="/assets/images/gallery3/KakaoTalk_20240113_035319539.jpg" alt="Andrias japonicus">
     <img src="/assets/images/gallery3/KakaoTalk_20240113_035319539_01.jpg" alt="Hebius vibakari">
     <img src="/assets/images/gallery3/KakaoTalk_20240113_035319539_06.jpg" alt="Gloydius blomhoffii">
   </div>
 
-  <div class="image-column">
+  <div class="image-row">
     <img src="/assets/images/gallery3/KakaoTalk_20240113_035319539_05.jpg" alt="Eupreophis conspicillata">
     <img src="/assets/images/gallery3/KakaoTalk_20240113_035319539_10.jpg" alt="Fejervarya kawamuraii">
     <img src="/assets/images/gallery3/KakaoTalk_20240113_035319539_13.jpg" alt="Cynops ensicauda">

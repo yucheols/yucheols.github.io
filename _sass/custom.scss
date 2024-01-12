@@ -4,12 +4,15 @@
     justify-content: space-around;
   }
   
-  .image-column {
-    flex: 0 1 calc(30% - 10px); /* Adjust column width and spacing */
-    margin-bottom: 20px; /* Adjust spacing between columns and rows */
+  .image-row {
+    display: flex;
+    justify-content: space-around;
+    flex: 0 1 calc(100% - 20px); /* Adjust row width and spacing */
+    margin-bottom: 20px; /* Adjust spacing between rows */
   }
   
-  .image-column img {
-    width: 100%;
+  .image-row img {
+    width: 30%; /* Adjust image width */
     margin-bottom: 10px; /* Adjust spacing between images */
   }
+  
