@@ -105,8 +105,8 @@ analytics:
 # Site Author
 author:
   name             : "Yucheol Shin"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a herpetologist and evolutionaty biologist from South Korea"
+  avatar           : "/assets/images/profile.png"
+  bio              : "Herpetologist and evolutionaty biologist from South Korea"
   location         : "South Korea"
   email            :
   links:
