@@ -13,7 +13,7 @@ permalink: /github/
 
 [Non-native Geckos](https://github.com/yucheols/Gekko){: .btn .btn--info .text-center}
 
-<span style="font-size: 13pt;"> In this study.... </span>
+<span style="font-size: 13pt;"> This repo is currently locked as private because the associated paper is currently under review. It will be publicly availabe once the paper is out. </span>
 
 [ENMs in R](https://github.com/yucheols/ENMs_In_R){: .btn .btn--info .text-center}
 
