@@ -144,9 +144,9 @@ footer:
     - label: "ResearchGate"
       icon: "/assets/images/rglogo.png"
       url: https://www.researchgate.net/profile/Yucheol-Shin
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
+    - label: "iNaturalist"
+      icon: #"fab fa-fw fa-gitlab"
+      url: https://www.inaturalist.org/observations?place_id=any&user_id=yucheol_shin&verifiable=any
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
