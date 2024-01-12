@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 ## Japan (2023)
-{% include gallery id="gallery1" images=site.data.gallery1 %}
+{% include gallery id="gallery4" images=site.data.gallery4 %}
 
 ## Taiwan (2023)
 
