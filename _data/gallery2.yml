@@ -1,7 +1,0 @@
-# Example for _data/gallery1.yml
-- image_path: /assets/images/gallery1/photo1.jpg
-  alt: "Description of Photo 1"
-- image_path: /assets/images/gallery1/photo2.jpg
-  alt: "Description of Photo 2"
-- image_path: /assets/images/gallery1/photo3.jpg
-  alt: "Description of Photo 3"
