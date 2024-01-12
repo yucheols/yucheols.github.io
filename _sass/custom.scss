@@ -1,0 +1,15 @@
+.image-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .image-column {
+    flex: 0 1 calc(30% - 10px); /* Adjust column width and spacing */
+    margin-bottom: 20px; /* Adjust spacing between columns and rows */
+  }
+  
+  .image-column img {
+    width: 100%;
+    margin-bottom: 10px; /* Adjust spacing between images */
+  }
