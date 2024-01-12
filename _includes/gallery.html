@@ -1,0 +1,19 @@
+{% comment %}
+  gallery.html
+
+  This template is included in Markdown files to render a gallery.
+{% endcomment %}
+
+{% assign gallery_id = include.id %}
+{% assign gallery_images = include.images %}
+
+<div class="gallery" id="{{ gallery_id }}">
+  {% for image in gallery_images %}
+    <figure class="third">
+      <a href="{{ image.image_path | relative_url }}" data-lightbox="{{ gallery_id }}" data-title="{{ image.alt }}">
+        <img src="{{ image.image_path | relative_url }}" alt="{{ image.alt }}">
+      </a>
+      <figcaption>{{ image.alt }}</figcaption>
+    </figure>
+  {% endfor %}
+</div>
