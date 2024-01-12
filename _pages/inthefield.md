@@ -22,7 +22,7 @@ author_profile: true
 </figure> 
 
 <figure>
-    <a href="/assets/images/gallery3/KakaoTalk_20240113_035319539_05.jpg.jpg"><img src="/assets/images/gallery3/KakaoTalk_20240113_035319539_05.jpg"></a>
+    <a href="/assets/images/gallery3/KakaoTalk_20240113_035319539_05.jpg"><img src="/assets/images/gallery3/KakaoTalk_20240113_035319539_05.jpg"></a>
      <figcaption>Euprepiophis conspicillata</figcaption>
 </figure> 
 
