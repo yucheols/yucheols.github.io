@@ -9,11 +9,35 @@ author_profile: true
 ## South Korea (2019 - 2023)
 
 ## Japan (2023)
-<div class="image-row">
-  <img src="/assets/images/gallery3/KakaoTalk_20240113_035319539.jpg" alt="Andrias japonicus">
-  <img src="/assets/images/gallery3/KakaoTalk_20240113_035319539_01.jpg" alt="Hebius vibakari">
-  <img src="/assets/images/gallery3/KakaoTalk_20240113_035319539_06.jpg" alt="Gloydius blomhoffii">
+<div class="image-grid">
+  <div class="image-column">
+    <img src="/assets/images/gallery3/KakaoTalk_20240113_035319539.jpg" alt="Andrias japonicus">
+    <img src="/assets/images/gallery3/KakaoTalk_20240113_035319539_01.jpg" alt="Hebius vibakari">
+    <img src="/assets/images/gallery3/KakaoTalk_20240113_035319539_06.jpg" alt="Gloydius blomhoffii">
+  </div>
+
+  <div class="image-column">
+    <img src="/assets/images/gallery3/KakaoTalk_20240113_035319539_05.jpg" alt="Eupreophis conspicillata">
+    <img src="/assets/images/gallery3/KakaoTalk_20240113_035319539_10.jpg" alt="Fejervarya kawamuraii">
+    <img src="/assets/images/gallery3/KakaoTalk_20240113_035319539_13.jpg" alt="Cynops ensicauda">
+  </div>
 </div>
+
+.image-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.image-column {
+  flex: 0 1 calc(30% - 10px); /* Adjust column width and spacing */
+  margin-bottom: 20px; /* Adjust spacing between columns and rows */
+}
+
+.image-column img {
+  width: 100%;
+  margin-bottom: 10px; /* Adjust spacing between images */
+}
 
 ## Taiwan (2023)
 
