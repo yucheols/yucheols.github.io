@@ -9,11 +9,12 @@ author_profile: true
 ## South Korea (2019 - 2023)
 
 ## Japan (2023)
-
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+<div class="image-row">
+  <img src="/assets/images/gallery3/KakaoTalk_20240113_035319539.jpg" alt="Andrias japonicus">
+  <img src="/assets/images/gallery3/KakaoTalk_20240113_035319539_01.jpg" alt="Hebius vibakari">
+  <img src="/assets/images/gallery3/KakaoTalk_20240113_035319539_06.jpg" alt="Gloydius blomhoffii">
+</div>
 
 ## Taiwan (2023)
-
-
 
 ## USA (2018)
