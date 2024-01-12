@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 author_profile: true
 ---
-[Curriculum Vitae](/assets/files/Yucheol_Shin_CV.pdf){: .btn .btn--info .text-center}
+[Curriculum Vitae](/assets/files/Yucheol_Shin_CV_short.pdf){: .btn .btn--info .text-center}
 
 
 ![snake image](/assets/images/elaphe_schrenckii_name.png){: .align-left}
