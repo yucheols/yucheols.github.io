@@ -3,7 +3,6 @@ layout: single #or page
 title: About
 permalink: /about/
 classes: wide
-author_profile: true
 ---
 [Curriculum Vitae](/assets/files/Yucheol_Shin_CV.pdf){: .btn .btn--info .text-center}
 

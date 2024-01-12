@@ -3,7 +3,6 @@ layout: single #or page
 title: Research
 permalink: /research/
 classes: wide
-author_profile: true
 ---
 
 ## Non-native reptiles and amphibians in South Korea
