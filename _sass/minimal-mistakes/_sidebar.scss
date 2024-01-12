@@ -62,7 +62,8 @@
   }
 
   img {
-    width: 100%;
+    max-width: 160%;
+    border-radius: 50%;
 
     &.emoji {
       width: 20px;
