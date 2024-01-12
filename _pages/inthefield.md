@@ -1,5 +1,5 @@
 ---
-layout: page #or page
+layout: category #or page
 title: In the field
 permalink: /inthefield/
 classes: wide
