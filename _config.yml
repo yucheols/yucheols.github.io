@@ -108,14 +108,14 @@ author:
   avatar           : "/assets/images/profile.png"
   bio              : "Herpetologist and evolutionaty biologist from South Korea"
   location         : "South Korea"
-  email            :
+  email            : "brongersmai2@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:brongersmai2@gmail.com"
     - label: "CV"
       icon: "far fa-fw fa-file-pdf"
-      url: "/assests/files/Yucheol_Shin_CV.pdf" 
+      url: /assests/files/Yucheol_Shin_CV.pdf 
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -142,7 +142,7 @@ footer:
       icon: "fab fa-fw fa-facebook-square"
       url: https://www.facebook.com/shin.yucheol.7/
     - label: "ResearchGate"
-      icon: "/assests/images/rglogo.png"
+      icon: /assests/images/rglogo.png
       url: https://www.researchgate.net/profile/Yucheol-Shin
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
