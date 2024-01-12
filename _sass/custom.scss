@@ -1,18 +1,21 @@
 .image-grid {
     display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
   }
   
   .image-row {
     display: flex;
     justify-content: space-around;
-    flex: 0 1 calc(100% - 20px); /* Adjust row width and spacing */
     margin-bottom: 20px; /* Adjust spacing between rows */
   }
   
-  .image-row img {
-    width: 30%; /* Adjust image width */
+  .image-column {
+    width: 30%; /* Adjust column width */
+  }
+  
+  .image-column img {
+    width: 100%; /* Make images fill the column width */
     margin-bottom: 10px; /* Adjust spacing between images */
   }
   
