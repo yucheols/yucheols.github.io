@@ -40,11 +40,6 @@ author_profile: true
 </figure> 
 
 <figure>
-    <a href="/assets/images/gallery"><img src="/assets/images/gallery"></a>
-     <figcaption>Oreocryptophis porphyraceus</figcaption>
-</figure> 
-
-<figure>
     <a href="/assets/images/gallery4/rhabdo.jpeg"><img src="/assets/images/gallery4/rhabdo.jpeg"></a>
      <figcaption>Rhabdophis tigrinus</figcaption>
 </figure> 
