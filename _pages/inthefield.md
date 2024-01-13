@@ -11,12 +11,12 @@ author_profile: true
 ## South Korea (2019 - 2023)
 <figure>
     <a href="/assets/images/gallery4/schrenkii_grey.jpg"><img src="/assets/images/gallery4/schrenkii_grey.jpg"></a>
-     <figcaption>Elaphe schrenskii (grey morph)</figcaption>
+     <figcaption>Elaphe schrenckii (grey morph)</figcaption>
 </figure> 
 
 <figure>
     <a href="/assets/images/gallery4/schrenkii_yellow.jpeg"><img src="/assets/images/gallery4/schrenkii_yellow.jpeg"></a>
-     <figcaption>Elaphe schrenskii (yellow morph)</figcaption>
+     <figcaption>Elaphe schrenckii (yellow morph)</figcaption>
 </figure> 
 
 <figure>
