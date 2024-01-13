@@ -303,6 +303,11 @@ author_profile: true
 </figure>   
 
 <figure>
+    <a href="/assets/images/gallery2/spheno.jpeg.jpg"><img src="/assets/images/gallery2/spheno.jpeg"></a>
+     <figcaption>Sphenomorphus indicus</figcaption>
+</figure>  
+
+<figure>
     <a href="/assets/images/gallery2/odo.jpg"><img src="/assets/images/gallery2/odo.jpg"></a>
      <figcaption>Odorrana swinhoana</figcaption>
 </figure>   
