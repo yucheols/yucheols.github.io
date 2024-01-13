@@ -145,8 +145,8 @@ author_profile: true
 </figure> 
 
 <figure>
-    <a href="/assets/images/gallery"><img src="/assets/images/gallery"></a>
-     <figcaption>Oreocryptophis porphyraceus</figcaption>
+    <a href="/assets/images/gallery4/intermedius.jpeg"><img src="/assets/images/gallery4/intermedius.jpeg"></a>
+     <figcaption>Gloydius intermedius</figcaption>
 </figure> 
 
 <figure>

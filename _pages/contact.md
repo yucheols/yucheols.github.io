@@ -6,7 +6,7 @@ classes: wide
 ---
 
 <figure>
-  <a href="assets/images/brevicauda_name.png"><img src="assets/images/brevicauda_name.png"></a>
+    <a href="assets/images/brevicauda_name.png"><img src="assets/images/brevicauda_name.png"></a>
 </figure>
 
 
