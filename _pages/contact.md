@@ -11,7 +11,7 @@ classes: wide
 ### ResearchGate
 [Yucheol Shin](https://www.researchgate.net/profile/Yucheol-Shin)
 
-![snake image2](/assets/images/brevicauda_name.png){: .align-left}
+![snake image2](/assets/images/brevicauda_name_highres.png){: .align-left}
 
 
 
