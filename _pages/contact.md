@@ -5,7 +5,7 @@ permalink: /contact/
 classes: wide
 ---
 
-![snake image2](/assets/images/brevicauda_name.png)
+![snake image2](/assets/images/brevicauda_name.png){: .align-center}
 
 
 ### Email
