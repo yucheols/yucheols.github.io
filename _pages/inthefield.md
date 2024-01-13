@@ -6,9 +6,188 @@ classes: wide
 author_profile: true
 ---
 
-<span style="font-size: 12pt;"> __One thing that I really love about herpetological research is that you get to travel around the world to look for these amazing animals. Below are some of the highlights from my fieldwork and herping trips.__ </span>
+<span style="font-size: 12pt;"> __One thing that I really love about herpetological research is that you get to travel around the world to look for these amazing animals in their natural habitats. Below are some of the highlights from my fieldwork and herping trips.__ </span>
 
 ## South Korea (2019 - 2023)
+<figure>
+    <a href="/assets/images/gallery4/schrenkii_grey.jpg"><img src="/assets/images/gallery4/schrenkii_grey.jpg"></a>
+     <figcaption>Elaphe schrenskii (grey morph)</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery4/schrenkii_yellow.jpeg"><img src="/assets/images/gallery4/schrenkii_yellow.jpeg"></a>
+     <figcaption>Elaphe schrenskii (yellow morph)</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery4/schrenkii_black.jpeg"><img src="/assets/images/gallery4/schrenkii_black.jpeg"></a>
+     <figcaption>Elaphe schrenckii (black morph)</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery4/schrenckii_juvie.jpg"><img src="/assets/images/gallery4/schrenckii_juvie.jpg"></a>
+     <figcaption>Elaphe schrenckii (juvenile)</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery4/Elaphe dione.jpeg"><img src="/assets/images/gallery4/Elaphe dione.jpeg"></a>
+     <figcaption>Elaphe dione</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery4/ooca.jpg"><img src="/assets/images/gallery4/ooca.jpg"></a>
+     <figcaption>Oocatochus rufodorsatus</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery"><img src="/assets/images/gallery"></a>
+     <figcaption>Oreocryptophis porphyraceus</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery4/rhabdo.jpeg"><img src="/assets/images/gallery4/rhabdo.jpeg"></a>
+     <figcaption>Rhabdophis tigrinus</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery4/lycodon.jpg"><img src="/assets/images/gallery4/lycodon.jpg"></a>
+     <figcaption>Lycodon rufozonatus</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery4/orientocoluber.jpeg"><img src="/assets/images/gallery4/orientocoluber.jpeg"></a>
+     <figcaption>Orientocoluber spinalis</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery4/spinalis_juvie.jpg"><img src="/assets/images/gallery4/spinalis_juvie.jpg"></a>
+     <figcaption>Orientocoluber spinalis (juvenile)</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery4/brevicauda.jpg"><img src="/assets/images/gallery4/brevicauda.jpg"></a>
+     <figcaption>Gloydius brevicauda</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery4/ussuri.jpg"><img src="/assets/images/gallery4/ussuri.jpg"></a>
+     <figcaption>Gloydius ussuriensis</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery4/intermedius.jpeg"><img src="/assets/images/gallery"></a>
+     <figcaption>Oreocryptophis porphyraceus</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery4/argus.jpeg"><img src="/assets/images/gallery4/argus.jpeg"></a>
+     <figcaption>Eremias argus</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery4/takydromus_amurensis.jpeg"><img src="/assets/images/gallery4/takydromus_amurensis.jpeg"></a>
+     <figcaption>Takydromus amurensis</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery4/wolteri.jpg"><img src="/assets/images/gallery4/wolteri.jpg"></a>
+     <figcaption>Takydromus wolteri</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery4/scin_huan.jpeg"><img src="/assets/images/gallery4/scin_huan.jpeg"></a>
+     <figcaption>Scincella huanrenensis</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery4/karsenia.jpeg"><img src="/assets/images/gallery4/karsenia.jpeg"></a>
+     <figcaption>Karsenia koreana</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery4/okor.jpg"><img src="/assets/images/gallery4/okor.jpg"></a>
+     <figcaption>Onychodactylus koreanus</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery4/okor_larva.jpg"><img src="/assets/images/gallery4/okor_larva.jpg"></a>
+     <figcaption>Onychodactylus koreanus (larva)</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery4/leechii.jpeg"><img src="/assets/images/gallery4/leechii.jpeg"></a>
+     <figcaption>Hynobius leechii</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery4/jejusal.jpeg"><img src="/assets/images/gallery4/jejusal.jpeg"></a>
+     <figcaption>Hynobius quelpaertensis</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery4/bstej.jpeg"><img src="/assets/images/gallery4/bstej.jpeg"></a>
+     <figcaption>Bufo stejnegeri</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery4/sachalin.jpg"><img src="/assets/images/gallery4/sachalin.jpg"></a>
+     <figcaption>Bufo sachalinensis</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery4/bombina.jpeg"><img src="/assets/images/gallery4/bombina.jpeg"></a>
+     <figcaption>Bombina orientalis</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery4/djaponicus.jpg"><img src="/assets/images/gallery4/djaponicus.jpg"></a>
+     <figcaption>Dryophytes japonicus</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery"><img src="/assets/images/gallery"></a>
+     <figcaption>Oreocryptophis porphyraceus</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery4/kaloula.jpeg"><img src="/assets/images/gallery4/kaloula.jpeg"></a>
+     <figcaption>Kaloula borealis</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery4/glandirana.jpeg"><img src="/assets/images/gallery4/glandirana.jpeg"></a>
+     <figcaption>Glandirana emeljanovi</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery4/pelophylax_nigromac.jpeg"><img src="/assets/images/gallery4/pelophylax_nigromac.jpeg"></a>
+     <figcaption>Pelophylax nigromaculatus</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery4/roedeer.jpg"><img src="/assets/images/gallery4/roedeer.jpg"></a>
+     <figcaption>Roe deer (Capreolus pygargus)</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery4/hedgehog.jpg"><img src="/assets/images/gallery4/hedgehog.jpg"></a>
+     <figcaption>Amur hedgehog (Erinaceus amurensis)</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery4/shrew.jpeg"><img src="/assets/images/gallery4/shrew.jpeg"></a>
+     <figcaption>Shrew</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery4/stagbeetle.jpg"><img src="/assets/images/gallery4/stagbeetle.jpg"></a>
+     <figcaption>Stag beetle (Prosopocoilus inclinatus)</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery4/rhinobeetle.jpg"><img src="/assets/images/gallery4/rhinobeetle.jpg"></a>
+     <figcaption>Rhinoceros beetle (Trypoxylus dichotomus)</figcaption>
+</figure> 
 
 ## Japan (2023)
 <figure>
@@ -32,9 +211,45 @@ author_profile: true
 </figure> 
 
 <figure>
+    <a href="/assets/images/gallery3/KakaoTalk_20240113_035319539_08.jpg"><img src="/assets/images/gallery3/KakaoTalk_20240113_035319539_08.jpg"></a>
+     <figcaption>Mauremys japonica</figcaption>
+</figure> 
+
+<figure>
     <a href="/assets/images/gallery3/KakaoTalk_20240113_035319539_13.jpg"><img src="/assets/images/gallery3/KakaoTalk_20240113_035319539_13.jpg"></a>
      <figcaption>Cynops pyrrhogaster</figcaption>
 </figure> 
+
+<figure>
+    <a href="/assets/images/gallery3/KakaoTalk_20240113_035319539_10.jpg"><img src="/assets/images/gallery3/KakaoTalk_20240113_035319539_10.jpg"></a>
+     <figcaption>Fejervarya kawamuraii</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery3/KakaoTalk_20240113_035319539_03.jpg"><img src="/assets/images/gallery3/KakaoTalk_20240113_035319539_03.jpg"></a>
+     <figcaption>Zhangixalus arboreus</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery3/KakaoTalk_20240113_035319539_12.jpg"><img src="/assets/images/gallery3/KakaoTalk_20240113_035319539_12.jpg"></a>
+     <figcaption>Buergeria buergeri</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery3/KakaoTalk_20240113_035319539_02.jpg"><img src="/assets/images/gallery3/KakaoTalk_20240113_035319539_02.jpg"></a>
+     <figcaption>Glandirana rugosa</figcaption>
+</figure>
+
+<figure>
+    <a href="/assets/images/gallery3/KakaoTalk_20240113_035319539_09.jpg"><img src="/assets/images/gallery3/KakaoTalk_20240113_035319539_09.jpg"></a>
+     <figcaption>Rana japonica</figcaption>
+</figure>
+
+<figure>
+    <a href="/assets/images/gallery3/KakaoTalk_20240113_035319539_11.jpg"><img src="/assets/images/gallery3/KakaoTalk_20240113_035319539_11.jpg"></a>
+     <figcaption>Japanese greater horseshoe bat (Rhinolophus nippon)</figcaption>
+</figure>
+
 
 ## Taiwan (2023)
 <figure>
