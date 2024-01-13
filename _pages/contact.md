@@ -5,9 +5,7 @@ permalink: /contact/
 classes: wide
 ---
 
-<figure>
-    <a href="/assets/images/brevicauda_name.png"><img src="/assets/images/brevicauda_name.png"></a>
-</figure>
+![snake image2](/assets/images/brevicauda_name.png)
 
 
 ### Email
