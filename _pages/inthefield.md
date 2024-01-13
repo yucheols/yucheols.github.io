@@ -75,8 +75,8 @@ author_profile: true
 </figure> 
 
 <figure>
-    <a href="/assets/images/gallery4/intermedius.jpeg"><img src="/assets/images/gallery"></a>
-     <figcaption>Oreocryptophis porphyraceus</figcaption>
+    <a href="/assets/images/gallery4/intermedius.jpeg"><img src="/assets/images/gallery4/intermedius.jpeg"></a>
+     <figcaption>Gloydius intermedius</figcaption>
 </figure> 
 
 <figure>
@@ -142,11 +142,6 @@ author_profile: true
 <figure>
     <a href="/assets/images/gallery4/djaponicus.jpg"><img src="/assets/images/gallery4/djaponicus.jpg"></a>
      <figcaption>Dryophytes japonicus</figcaption>
-</figure> 
-
-<figure>
-    <a href="/assets/images/gallery4/intermedius.jpeg"><img src="/assets/images/gallery4/intermedius.jpeg"></a>
-     <figcaption>Gloydius intermedius</figcaption>
 </figure> 
 
 <figure>
