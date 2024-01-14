@@ -9,8 +9,8 @@ author_profile: true
 
 
 ### Yucheol Shin
-Department of Biological Sciences
-Kangwon National University
+Department of Biological Sciences,
+Kangwon National University,
 Chuncheon, South Korea
 
 ### Email
