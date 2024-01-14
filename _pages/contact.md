@@ -5,6 +5,11 @@ permalink: /contact/
 classes: wide
 ---
 
+__Yucheol Shin__
+Department of Biological Sciences
+Kangwon National University
+Chuncheon, South Korea
+
 ### Email
 [brongersmai2@gmail.com](mailto:brongersmai2@gmail.com)
 
