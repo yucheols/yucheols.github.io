@@ -364,7 +364,7 @@ author_profile: true
 </figure>   
 
 <figure>
-    <a href="/assets/images/gallery1/contia_small.jpg"><img src="/assets/images/gallery1/contia_small.jpg.jpg"></a>
+    <a href="/assets/images/gallery1/contia_small.jpg"><img src="/assets/images/gallery1/contia_small.jpg"></a>
      <figcaption>Contia tenuis</figcaption>
 </figure>
 
@@ -391,12 +391,7 @@ author_profile: true
 <figure>
     <a href="/assets/images/gallery1/skiltonianus.jpg.jpg"><img src="/assets/images/gallery1/skiltonianus.jpg"></a>
      <figcaption>Plestiodon skiltonianus</figcaption>
-</figure>
-
-<figure>
-    <a href="/assets/images/gallery1/KakaoTalk_Moim_4HP79z1D8naEa2q53Easmi1pKFxoxX.jpg"><img src="/assets/images/gallery1/KakaoTalk_Moim_4HP79z1D8naEa2q53Easmi1pKFxoxX.jpg"></a>
-     <figcaption>Phrynosoma blainvillii</figcaption>
-</figure>    
+</figure> 
 
 <figure>
     <a href="/assets/images/gallery1/phryno.jpg"><img src="/assets/images/gallery1/phryno.jpg"></a>
@@ -414,7 +409,7 @@ author_profile: true
 </figure>  
 
 <figure>
-    <a href="/assets/images/gallery1/attenuatus.jpg.jpg"><img src="/assets/images/gallery1/attenuatus.jpg.jpg"></a>
+    <a href="/assets/images/gallery1/attenuatus.jpg.jpg"><img src="/assets/images/gallery1/attenuatus.jpg"></a>
      <figcaption>Batrachoseps attenuatus</figcaption>
 </figure>  
 
@@ -434,16 +429,16 @@ author_profile: true
 </figure>  
 
 <figure>
-    <a href="/assets/images/gallery1/seaotter.jpeg.jpg"><img src="/assets/images/gallery1/seaotter.jpeg.jpg"></a>
+    <a href="/assets/images/gallery1/seaotter.jpeg"><img src="/assets/images/gallery1/seaotter.jpeg"></a>
      <figcaption>Sea otter (Enhydra lutris)</figcaption>
 </figure>  
 
 <figure>
-    <a href="/assets/images/gallery1/woodrat.jpg.jpg"><img src="/assets/images/gallery1/woodrat.jpg.jpg"></a>
+    <a href="/assets/images/gallery1/woodrat.jpg"><img src="/assets/images/gallery1/woodrat.jpg"></a>
      <figcaption>Dusky-footed woodrat (Neotoma fuscipes)</figcaption>
 </figure> 
 
 <figure>
-    <a href="/assets/images/gallery1/ucfonr.jpg.jpg"><img src="/assets/images/gallery1/ucfonr.jpg.jpg"></a>
+    <a href="/assets/images/gallery1/ucfonr.jpg"><img src="/assets/images/gallery1/ucfonr.jpg"></a>
      <figcaption>Fieldwork on the UC Fort Ord Natural Reserve</figcaption>
 </figure>  
