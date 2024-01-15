@@ -10,7 +10,7 @@ author_profile: true
 
 <style>
     figcaption {
-        margin-top:10px; 
+        margin-top:15px; 
     }
 </style>
 
