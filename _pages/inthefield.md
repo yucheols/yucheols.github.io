@@ -355,6 +355,7 @@ author_profile: true
 
 <figure>
     <a href="/assets/images/gallery1/KakaoTalk_20180619_222521410.jpg"><img src="/assets/images/gallery1/KakaoTalk_20180619_222521410.jpg"></a>
+    
      <figcaption>Pituophis catenifer</figcaption>
 </figure>    
 
