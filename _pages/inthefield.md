@@ -8,6 +8,12 @@ author_profile: true
 
 <span style="font-size: 12pt;"> __One of the things that I really love about herpetological research is that you get to travel around the world to look for these amazing animals in their natural habitats. Below are some of the highlights from my fieldwork and herping trips.__ </span>
 
+<style>
+    figcaption {
+        margin-top:10px; 
+    }
+</style>
+
 ## South Korea (2019 - 2023)
 <figure>
     <a href="/assets/images/gallery4/schrenkii_grey.jpg"><img src="/assets/images/gallery4/schrenkii_grey.jpg"></a>
@@ -355,7 +361,6 @@ author_profile: true
 
 <figure>
     <a href="/assets/images/gallery1/KakaoTalk_20180619_222521410.jpg"><img src="/assets/images/gallery1/KakaoTalk_20180619_222521410.jpg"></a>
-    
      <figcaption>Pituophis catenifer</figcaption>
 </figure>    
 
