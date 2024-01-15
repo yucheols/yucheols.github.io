@@ -339,13 +339,18 @@ author_profile: true
 </figure>   
 
 <figure>
-    <a href="/assets/images/gallery1/KakaoTalk_20180619_205858259.jpg"><img src="/assets/images/gallery1/KakaoTalk_20180619_205858259.jpg"></a>
-     <figcaption>Lampropeltis californiae</figcaption>
-</figure>    
+    <a href="/assets/images/gallery1/oreganus_side.jpg"><img src="/assets/images/gallery1/oreganus_side.jpg"></a>
+     <figcaption>Crotalus o. oreganus</figcaption>
+</figure>   
 
 <figure>
-    <a href="/assets/images/gallery1/KakaoTalk_20180619_205900533.jpg"><img src="/assets/images/gallery1/KakaoTalk_20180619_205900533.jpg"></a>
-     <figcaption>Contia tenuis</figcaption>
+    <a href="/assets/images/gallery1/oreganus_neo.jpg"><img src="/assets/images/gallery1/oreganus_neo.jpg"></a>
+     <figcaption>Crotalus o. oreganus (neonate)</figcaption>
+</figure>   
+
+<figure>
+    <a href="/assets/images/gallery1/KakaoTalk_20180619_205858259.jpg"><img src="/assets/images/gallery1/KakaoTalk_20180619_205858259.jpg"></a>
+     <figcaption>Lampropeltis californiae</figcaption>
 </figure>    
 
 <figure>
@@ -354,14 +359,69 @@ author_profile: true
 </figure>    
 
 <figure>
+    <a href="/assets/images/gallery1/KakaoTalk_20180619_205900533.jpg"><img src="/assets/images/gallery1/KakaoTalk_20180619_205900533.jpg"></a>
+     <figcaption>Contia tenuis</figcaption>
+</figure>   
+
+<figure>
+    <a href="/assets/images/gallery1/contia_small.jpg"><img src="/assets/images/gallery1/contia_small.jpg.jpg"></a>
+     <figcaption>Contia tenuis</figcaption>
+</figure>
+
+<figure>
+    <a href="/assets/images/gallery1/diadophis.jpg"><img src="/assets/images/gallery1/diadophis.jpg"></a>
+     <figcaption>Diadophis punctatus vandenburgii</figcaption>
+</figure>
+
+<figure>
+    <a href="/assets/images/gallery1/coluber.jpg"><img src="/assets/images/gallery1/coluber.jpg"></a>
+     <figcaption>Coluber constrictor mormon</figcaption>
+</figure>
+
+<figure>
+    <a href="/assets/images/gallery1/thamno.jpg"><img src="/assets/images/gallery1/thamno.jpg"></a>
+     <figcaption>Thamnophis elegans terrestris</figcaption>
+</figure>
+
+<figure>
+    <a href="/assets/images/gallery1/elgaria.jpg"><img src="/assets/images/gallery1/elgaria.jpg"></a>
+     <figcaption>Elgaria multicarinata</figcaption>
+</figure>
+
+<figure>
+    <a href="/assets/images/gallery1/skiltonianus.jpg.jpg"><img src="/assets/images/gallery1/skiltonianus.jpg"></a>
+     <figcaption>Plestiodon skiltonianus</figcaption>
+</figure>
+
+<figure>
     <a href="/assets/images/gallery1/KakaoTalk_Moim_4HP79z1D8naEa2q53Easmi1pKFxoxX.jpg"><img src="/assets/images/gallery1/KakaoTalk_Moim_4HP79z1D8naEa2q53Easmi1pKFxoxX.jpg"></a>
      <figcaption>Phrynosoma blainvillii</figcaption>
 </figure>    
 
 <figure>
+    <a href="/assets/images/gallery1/phryno.jpg"><img src="/assets/images/gallery1/phryno.jpg"></a>
+     <figcaption>Phrynosoma blainvillii</figcaption>
+</figure>
+
+<figure>
+    <a href="/assets/images/gallery1/phryno_neo.jpg"><img src="/assets/images/gallery1/phryno_neo.jpg"></a>
+     <figcaption>Phrynosoma blainvillii (neonate)</figcaption>
+</figure>
+
+<figure>
+    <a href="/assets/images/gallery1/gavilanensis.jpg"><img src="/assets/images/gallery1/gavilanensis.jpg"></a>
+     <figcaption>Batrachoseps gavilanensis</figcaption>
+</figure>  
+
+<figure>
+    <a href="/assets/images/gallery1/attenuatus.jpg.jpg"><img src="/assets/images/gallery1/attenuatus.jpg.jpg"></a>
+     <figcaption>Batrachoseps attenuatus</figcaption>
+</figure>  
+
+<figure>
     <a href="/assets/images/gallery1/Ensatina.jpg"><img src="/assets/images/gallery1/Ensatina.jpg"></a>
      <figcaption>Ensatina e. eschscholtzii</figcaption>
-</figure>   
+</figure>  
 
 <figure>
     <a href="/assets/images/gallery1/taricha.jpeg"><img src="/assets/images/gallery1/taricha.jpeg"></a>
@@ -371,4 +431,19 @@ author_profile: true
 <figure>
     <a href="/assets/images/gallery1/20180320_214713.jpg"><img src="/assets/images/gallery1/20180320_214713.jpg"></a>
      <figcaption>Alligator mississippiensis</figcaption>
+</figure>  
+
+<figure>
+    <a href="/assets/images/gallery1/seaotter.jpeg.jpg"><img src="/assets/images/gallery1/seaotter.jpeg.jpg"></a>
+     <figcaption>Sea otter (Enhydra lutris)</figcaption>
+</figure>  
+
+<figure>
+    <a href="/assets/images/gallery1/woodrat.jpg.jpg"><img src="/assets/images/gallery1/woodrat.jpg.jpg"></a>
+     <figcaption>Dusky-footed woodrat (Neotoma fuscipes)</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery1/ucfonr.jpg.jpg"><img src="/assets/images/gallery1/ucfonr.jpg.jpg"></a>
+     <figcaption>Fieldwork on the UC Fort Ord Natural Reserve</figcaption>
 </figure>  
