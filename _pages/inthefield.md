@@ -10,6 +10,22 @@ author_profile: true
 
 
 ## South Korea (2019 - 2023)
+
+gallery:
+  - image_path: /assets/images/gallery4/schrenkii_grey.jpg
+  - alt: "Elaphe schrenckii (grey morph)"
+  - title: snake image 1
+  
+  - image_path: /assets/images/gallery4/schrenkii_yellow.jpeg
+  - alt: "Elaphe schrenckii (yellow morph)"
+  - title: snake image 2
+
+  - image_path: /assets/images/gallery4/schrenkii_black.jpeg
+  - alt: "Elaphe schrenckii (black morph)"
+  - title: snake image 3
+
+
+
 <figure>
     <a href="/assets/images/gallery4/schrenkii_grey.jpg"><img src="/assets/images/gallery4/schrenkii_grey.jpg"></a>
      <figcaption>Elaphe schrenckii (grey morph)</figcaption>
