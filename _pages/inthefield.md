@@ -24,7 +24,7 @@ gallery:
   - alt: "Elaphe schrenckii (black morph)"
   - title: snake image 3
 
-
+{{ % include gallery % }}
 
 <figure>
     <a href="/assets/images/gallery4/schrenkii_grey.jpg"><img src="/assets/images/gallery4/schrenkii_grey.jpg"></a>
