@@ -11,7 +11,7 @@ author_profile: true
 <span style="font-size: 12pt;"> __*† Indicates co-first authorship*__ </span>
 
 ## 2024
-<span style="font-size: 14pt;"> __Y Shin†__, K Heo†, SN Othman, Y Jang, M-S Min, A Borzée. 2024. Tracing the geographic origin of a non-native Red-banded Snake (Colubridae: *Lycodon rufozonatus*) found on Jeju Island, Republic of Korea. __*Herpetologica*__ 80. [PDF]</span>
+<span style="font-size: 14pt;"> __Y Shin†__, K Heo†, SN Othman, Y Jang, M-S Min, A Borzée. 2024. Tracing the geographic origin of a nonnative Red-banded Snake (Colubridae: *Lycodon rufozonatus*) found on Jeju Island, Republic of Korea. __*Herpetologica*__ 80. [PDF]</span>
 
 ## 2023
 <span style="font-size: 14pt;"> Y Peng, Y Li, G Cao, H Li, __Y Shin__, Z Piao, F Perez, W Zhu, A Borzée. 2023. Estimation of habitat suitability and landscape connectivity for Liaoning and Jilin clawed salamanders (Hynobiidae: *Onychodactylus*) in the transboundary region between the People’s Republic of China and the Democratic People’s Republic of Korea. __*Global Ecology and Conservation*__ 48: e02694. [PDF](/assets/publications/Peng_et_al_2023.pdf) </span>
