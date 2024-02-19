@@ -11,6 +11,8 @@ author_profile: true
 <span style="font-size: 12pt;"> __*† Indicates co-first authorship*__ </span>
 
 ## 2024
+<span style="font-size: 14pt;"> A Borzée, __Y Shin†__, Y Bae, D Jeong, H Amin, M-S Min, SN Othman. 2024. S Min, SN Othman. 2024. From Korean to northeast Asian endemicity: on the occurrence of *Pelophylax chosenicus* along the Eastern Coastal Yellow Sea. __*Frontiers of Biogeography*__. [PDF]</span>
+
 <span style="font-size: 14pt;"> __Y Shin†__, K Heo†, SN Othman, Y Jang, M-S Min, A Borzée. 2024. Tracing the geographic origin of a nonnative Red-banded Snake (Colubridae: *Lycodon rufozonatus*) found on Jeju Island, Republic of Korea. __*Herpetologica*__ 80. [PDF]</span>
 
 ## 2023
