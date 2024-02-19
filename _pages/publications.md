@@ -49,3 +49,37 @@ author_profile: true
 <span style="font-size: 14pt;"> __Y Shin__, Y Jang, SJR Allain, A Borzée. 2020. Catalogue of herpetological specimens of the Ewha Womans University Natural History Museum (EWNHM), Republic of Korea. __*ZooKeys*__ 965: 103-139. [PDF](/assets/publications/Shin_et_al_2020.pdf) </span>
 
 <span style="font-size: 14pt;"> A Borzée, KR Messenger, S Chae, D Andersen, J Groffen, YI Kim, J An, SN Othman, K Ri, TY Nam, Y Bae, J-L Ren, J-T Li, M-F Chuang, Y Yi, __Y Shin__, T Kwon, Y Jang, M-S, Min. 2020. Yellow sea mediated segregation between North East Asian *Dryophytes* species. __*PLoS ONE*__ 15: e0234299. [PDF](/assets/publications/Borzee_et_al_2020.pdf) </span>
+
+
+## Short articles
+<span style="font-size: 14pt;"> I-K Park, Y Shin, D Park. 2024. Predation on a metamorphosing tadpole of the American Bullfrog, *Aquarana catesbeiana* (Shaw, 1802), by the fishing spider *Dolomedes sulfureus*, in the Republic of Korea. __*Herpetology Notes*__. [PDF] </span>
+
+<span style="font-size: 14pt;"> Y Shin, J Miller, JM Duggan. 2021. Observations on the year round communal use of an artificial structure by Northern Pacific rattlesnakes (*Crotalus oreganus oreganus*) in coastal Central California. __*Herpetological Bulletin*__ 155: 25-27. [PDF](/assets/publications/Shin_et_al_2021_Crotalus_Herp_Bulletin.pdf) </span>
+
+<span style="font-size: 14pt;"> Y Shin, A Borzée. 2020. Melanism in the Ussuri pitviper (*Gloydius ussuriensis*) from the Republic of Korea, with remarks on color variations. __*Jordan Journal of Natural History*__ 7: 60-63. [PDF](/assets/publications/Shin_Borzee_2020_G_ussuriensis_color_JJNH.pdf) </span>
+
+<span style="font-size: 14pt;"> Y Shin, J Ambu, A Borzée. 2020. Observations on heterospecific amplexus in Asiatic toads (Anura: Bufonidae: *Bufo gargarizans*) in the Republic of Korea. __*Herpetology Notes*__ 13: 411-413. [PDF](/assets/publications/Shin_et_al_2020_Bufo_amplexus_Herp_Notes.pdf) </span>
+
+<span style="font-size: 14pt;"> Y Shin, D Jeong, A Borzée. 2020. Mass displacement of Korean clawed salamanders (*Onychodactylus koreanus*) and the threat of road-kill. __*Herpetological Bulletin*__ 151: 28-31. [PDF](/assets/publications/Shin et al_2020_Onychodactylus_Herp_Bulletin.pdf) </span>
+
+<span style="font-size: 14pt;"> Y Shin, Y Jang, T Kim, A Borzée. 2020. A specimen of *Karsenia koreana* (Caudata: Plethodontidae) misidentified as *Hynobius leechii* 27 years before the species’ description and additional historical record. __*Current Herpetology*__ 39: 75-79. [PDF](/assets/publications/Shin_et_al_2020_Karsenia_Current Herpetol.pdf) </span>
+
+<span style="font-size: 14pt;"> Y Shin , Y Jang, A Borzée. 2020. Limb malformations in *Bombina orientalis* (Anura; Bombinatoridae) in the Republic of Korea based on museum specimens. __*Herpetology Notes*__ 13: 29-31. [PDF](/assets/publications/Shin_et_al_2020_Bombina_Herp Notes.pdf) </span>
+
+
+## Natural history and distribution notes
+<span style="font-size: 14pt;"> J-J Strydom, Y Shin . 2022. *Gloydius brevicauda* (Short tailed Pitviper). Diet. __*Herpetological Review*__ 53: 697-698. [PDF](/assets/publications/Strydom_Shin 2022_G.brevicaudus_Herp_Review.pdf) </span>
+
+<span style="font-size: 14pt;"> K Heo, Y Shin , K Messenger. 2022. *Hynobius notialis* (Southern Korean Salamander). Behavior. __*Herpetological Review*__ 53: 642. [PDF](/assets/publications/Heo_et_al_2022_H_notialis_Herp_Review.pdf) </span>
+
+<span style="font-size: 14pt;"> D Jeong, B Lim, Y Shin . 2022. *Dryophytes japonicus* (Japanese Treefrog). Predation. __*Herpetological Review*__ 53: 467-468. [PDF](/assets/publications/Jeong_et_al_2022_Dryophytes_predation_Herp_Review.pdf) </span>
+
+<span style="font-size: 14pt;"> Y Shin , D Jeong, B Lim. 2021. *Kaloula borealis* (Boreal Digging Frog). Hibernaculum. __*Herpetological Review*__ 52: 828-829. [PDF](/assets/publications/Shin_et_al._2021_Kaloula_borealis_Hibernaculum_Herp_Review.pdf) </span>
+
+<span style="font-size: 14pt;"> Y Shin , MD Cho, A Borzée. 2021. *Gloydius ussuriensis* (Ussuri Pitviper). Diet. __*Herpetological Review*__ 52: 157-158. [PDF](/assets/publications/Shin_et_al_2021_G_ussuriensis_diet_Herp_Review.pdf) </span>
+
+<span style="font-size: 14pt;"> K Messenger, H Dahn, D Andersen, Y Shin , Y Yi, Y Bae, A Borzée. 2020. *Bufo stejnegeri* (Korean Water Toad). Geographical distribution. __*Herpetological Review*__ 51: 532. [PDF](/assets/publications/Messenger_et_al_2020_B_stejnegeri_Herp_Review.pdf) </span>
+
+<span style="font-size: 14pt;"> Y Shin , Y Jang, A Borzée. 2020. *Gloydius saxatilis* (Rock Mamushi). Dicephalism. __*Herpetological Review*__ 51: 143-144. [PDF](/assets/publications/Shin_et_al_2020_Gloydius_saxatilis_Herp_Review.pdf) </span>
+
+<span style="font-size: 14pt;"> Y Shin , Y Jang, A Borzée. 2020. *Gloydius ussuriensis* (Ussuri Mamushi). Disease. __*Herpetological Review*__ 51: 144. [PDF](/assets/publications/Shin_et_al_2020_Gloydius ussuriensis_stomatitis_Herp_Review.pdf) </span>
