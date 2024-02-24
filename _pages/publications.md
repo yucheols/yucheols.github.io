@@ -13,7 +13,7 @@ author_profile: true
 ## 2024
 <span style="font-size: 14pt;"> A Borzée, __Y Shin†__, Y Bae, D Jeong, H Amin, M-S Min, SN Othman. 2024. S Min, SN Othman. 2024. From Korean to northeast Asian endemicity: on the occurrence of *Pelophylax chosenicus* along the Eastern Coastal Yellow Sea. __*Frontiers of Biogeography*__. [PDF]</span>
 
-<span style="font-size: 14pt;"> __Y Shin†__, K Heo†, SN Othman, Y Jang, M-S Min, A Borzée. 2024. Tracing the geographic origin of a nonnative Red-banded Snake (Colubridae: *Lycodon rufozonatus*) found on Jeju Island, Republic of Korea. __*Herpetologica*__ 80. [PDF]</span>
+<span style="font-size: 14pt;"> __Y Shin†__, K Heo†, SN Othman, Y Jang, M-S Min, A Borzée. 2024. Tracing the geographic origin of a nonnative Red-banded Snake (Colubridae: *Lycodon rufozonatus*) found on Jeju Island, Republic of Korea. __*Herpetologica*__ 80. [PDF](/assets/publications/Shin_and_Heo_et_al_2024.pdf)</span>
 
 ## 2023
 <span style="font-size: 14pt;"> Y Peng, Y Li, G Cao, H Li, __Y Shin__, Z Piao, F Perez, W Zhu, A Borzée. 2023. Estimation of habitat suitability and landscape connectivity for Liaoning and Jilin clawed salamanders (Hynobiidae: *Onychodactylus*) in the transboundary region between the People’s Republic of China and the Democratic People’s Republic of Korea. __*Global Ecology and Conservation*__ 48: e02694. [PDF](/assets/publications/Peng_et_al_2023.pdf) </span>
