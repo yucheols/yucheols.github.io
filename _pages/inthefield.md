@@ -8,8 +8,11 @@ author_profile: true
 
 <span style="font-size: 12pt;"> __One of the things that I really love about herpetological research is that you get to travel around the world to look for these amazing animals in their natural habitats. Below are some of the highlights from my fieldwork and herping trips.__ </span>
 
+## Japan (2024)
 
-## South Korea (2019 - 2023)
+## China (2024)
+
+## South Korea (2019 - 2024)
 
 <figure>
     <a href="/assets/images/gallery4/schrenkii_grey.jpg"><img src="/assets/images/gallery4/schrenkii_grey.jpg"></a>
