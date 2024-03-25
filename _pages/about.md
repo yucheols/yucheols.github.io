@@ -14,4 +14,4 @@ I am a herpetologist and evolutionary biologist interested in the processes of s
 
 I was born and raised in Chuncheon, Gangwon Province, and I still live here. I like to think that my hometown is the center for herpetology in South Korea. First, you can find almost half of all amphibian and terrestrial reptile spcies of Korea within Chuncheon itself or within easy driving distance. Second, my home university (which is also in Chuncheon) has the only lab in the country that specializes in herpetology. So, naturally, this is my favorite place in the world!
 
-I graduated from Kangwon National University with my Bachelor's degree in Biological Sciences, and I'm joinging Dr. Frank Burbrink's lab <https://sites.google.com/view/frank-burbrink-website/> at the American Museum of Natural History (AMNH) to start my PhD.
+I graduated from Kangwon National University with my Bachelor's degree in Biological Sciences, and I'm joinging [Dr. Frank Burbrink's lab] (https://sites.google.com/view/frank-burbrink-website/) at the American Museum of Natural History (AMNH) to start my PhD.
