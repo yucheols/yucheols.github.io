@@ -13,7 +13,7 @@ Department of Biological Sciences,
 Kangwon National University,
 Chuncheon, South Korea
 
-### Email
+### E-mail
 [brongersmai2@gmail.com](mailto:brongersmai2@gmail.com)
 
 ### ResearchGate
