@@ -213,17 +213,17 @@ author_profile: true
 </figure> 
 
 <figure>
-    <a href="/assets/images/gallery3/20240401200034_IMG_5331.jpg"><img src="/assets/images/gallery3/20240401200034_IMG_5331.jpg"></a>
+    <a href="/assets/images/gallery3/20240401200034_IMG_5331.JPG"><img src="/assets/images/gallery3/20240401200034_IMG_5331.JPG"></a>
      <figcaption>Cynops pyrrhogaster</figcaption>
 </figure> 
 
 <figure>
-    <a href="/assets/images/gallery3/20240401195921_IMG_5326.jpg"><img src="/assets/images/gallery3/20240401195921_IMG_5326.jpg"></a>
+    <a href="/assets/images/gallery3/20240401195921_IMG_5326.JPG"><img src="/assets/images/gallery3/20240401195921_IMG_5326.JPG"></a>
      <figcaption>Cynops pyrrhogaster</figcaption>
 </figure> 
 
 <figure>
-    <a href="/assets/images/gallery3/20240401195448_IMG_5313.jpg"><img src="/assets/images/gallery3/20240401195448_IMG_5313.jpg"></a>
+    <a href="/assets/images/gallery3/20240401195448_IMG_5313.JPG"><img src="/assets/images/gallery3/20240401195448_IMG_5313.JPG"></a>
      <figcaption>Cynops pyrrhogaster (breeding ground)</figcaption>
 </figure> 
 
@@ -253,17 +253,17 @@ author_profile: true
 </figure>
 
 <figure>
-    <a href="/assets/images/gallery3/20240331222617_IMG_5297.jpg"><img src="/assets/images/gallery3/20240331222617_IMG_5297.jpg"></a>
+    <a href="/assets/images/gallery3/20240331222617_IMG_5297.jpg"><img src="/assets/images/gallery3/20240331222617_IMG_5297.JPG"></a>
      <figcaption>Bufo formosus</figcaption>
 </figure>
 
 <figure>
-    <a href="/assets/images/gallery3/20240331203442_IMG_5216.jpg"><img src="/assets/images/gallery3/20240331203442_IMG_5216.jpg"></a>
+    <a href="/assets/images/gallery3/20240331203442_IMG_5216.jpg"><img src="/assets/images/gallery3/20240331203442_IMG_5216.JPG"></a>
      <figcaption>Bufo formosus</figcaption>
 </figure>
 
 <figure>
-    <a href="/assets/images/gallery3/20240331223705_IMG_5307.jpg"><img src="/assets/images/gallery3/20240331223705_IMG_5307.jpg"></a>
+    <a href="/assets/images/gallery3/20240331223705_IMG_5307.jpg"><img src="/assets/images/gallery3/20240331223705_IMG_5307.JPG"></a>
      <figcaption>Bufo formosus (in amplexus)</figcaption>
 </figure>
 
