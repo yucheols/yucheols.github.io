@@ -253,17 +253,17 @@ author_profile: true
 </figure>
 
 <figure>
-    <a href="/assets/images/gallery3/20240331222617_IMG_5297.jpg"><img src="/assets/images/gallery3/20240331222617_IMG_5297.JPG"></a>
+    <a href="/assets/images/gallery3/20240331222617_IMG_5297.JPG"><img src="/assets/images/gallery3/20240331222617_IMG_5297.JPG"></a>
      <figcaption>Bufo formosus</figcaption>
 </figure>
 
 <figure>
-    <a href="/assets/images/gallery3/20240331203442_IMG_5216.jpg"><img src="/assets/images/gallery3/20240331203442_IMG_5216.JPG"></a>
+    <a href="/assets/images/gallery3/20240331203442_IMG_5216.JPG"><img src="/assets/images/gallery3/20240331203442_IMG_5216.JPG"></a>
      <figcaption>Bufo formosus</figcaption>
 </figure>
 
 <figure>
-    <a href="/assets/images/gallery3/20240331223705_IMG_5307.jpg"><img src="/assets/images/gallery3/20240331223705_IMG_5307.JPG"></a>
+    <a href="/assets/images/gallery3/20240331223705_IMG_5307.JPG"><img src="/assets/images/gallery3/20240331223705_IMG_5307.JPG"></a>
      <figcaption>Bufo formosus (in amplexus)</figcaption>
 </figure>
 
@@ -273,7 +273,15 @@ author_profile: true
 </figure>
 
 ## China (2024)
+<figure>
+    <a href="/assets/images/gallery5/20240301204430_IMG_5148.JPG"><img src="/assets/images/gallery5/20240301204430_IMG_5148.JPG"></a>
+     <figcaption>Rana dabieshanensis</figcaption>
+</figure>
 
+<figure>
+    <a href="/assets/images/gallery5/20240301204635_IMG_5151.JPG"><img src="/assets/images/gallery5/20240301204635_IMG_5151.JPG"></a>
+     <figcaption>Rana dabieshanensis (egg)</figcaption>
+</figure>
 
 ## Taiwan (2023)
 <figure>
