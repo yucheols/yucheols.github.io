@@ -21,7 +21,7 @@ author_profile: true
 
 <figure>
     <a href="/assets/images/gallery4/schrenkii_yellow.jpeg"><img src="/assets/images/gallery4/schrenkii_yellow.jpeg"></a>
-     <figcaption>*Elaphe schrenckii* (yellow morph)</figcaption>
+     <figcaption>Elaphe schrenckii (yellow morph)</figcaption>
 </figure> 
 
 <figure>
