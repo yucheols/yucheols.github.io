@@ -8,9 +8,6 @@ author_profile: true
 
 <span style="font-size: 12pt;"> __One of the things that I really love about herpetological research is that you get to travel around the world to look for these amazing animals in their natural habitats. Below are some of the highlights from my fieldwork and herping trips.__ </span>
 
-## Japan (2024)
-
-## China (2024)
 
 ## South Korea (2019 - 2024)
 
@@ -184,7 +181,7 @@ author_profile: true
      <figcaption>Rhinoceros beetle (Trypoxylus dichotomus)</figcaption>
 </figure> 
 
-## Japan (2023)
+## Japan (2023 - 2024)
 <figure>
     <a href="/assets/images/gallery3/KakaoTalk_20240113_035319539.jpg"><img src="/assets/images/gallery3/KakaoTalk_20240113_035319539.jpg"></a>
      <figcaption>Andrias japonicus</figcaption>
@@ -216,6 +213,21 @@ author_profile: true
 </figure> 
 
 <figure>
+    <a href="/assets/images/gallery3/20240401200034_IMG_5331.jpg"><img src="/assets/images/gallery3/20240401200034_IMG_5331.jpg"></a>
+     <figcaption>Cynops pyrrhogaster</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery3/20240401195921_IMG_5326.jpg"><img src="/assets/images/gallery3/20240401195921_IMG_5326.jpg"></a>
+     <figcaption>Cynops pyrrhogaster</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery3/20240401195448_IMG_5313.jpg"><img src="/assets/images/gallery3/20240401195448_IMG_5313.jpg"></a>
+     <figcaption>Cynops pyrrhogaster (breeding ground)</figcaption>
+</figure> 
+
+<figure>
     <a href="/assets/images/gallery3/KakaoTalk_20240113_035319539_10.jpg"><img src="/assets/images/gallery3/KakaoTalk_20240113_035319539_10.jpg"></a>
      <figcaption>Fejervarya kawamuraii</figcaption>
 </figure> 
@@ -241,9 +253,26 @@ author_profile: true
 </figure>
 
 <figure>
+    <a href="/assets/images/gallery3/20240331222617_IMG_5297.jpg"><img src="/assets/images/gallery3/20240331222617_IMG_5297.jpg"></a>
+     <figcaption>Bufo formosus</figcaption>
+</figure>
+
+<figure>
+    <a href="/assets/images/gallery3/20240331203442_IMG_5216.jpg"><img src="/assets/images/gallery3/20240331203442_IMG_5216.jpg"></a>
+     <figcaption>Bufo formosus</figcaption>
+</figure>
+
+<figure>
+    <a href="/assets/images/gallery3/20240331223705_IMG_5307.jpg"><img src="/assets/images/gallery3/20240331223705_IMG_5307.jpg"></a>
+     <figcaption>Bufo formosus (in amplexus)</figcaption>
+</figure>
+
+<figure>
     <a href="/assets/images/gallery3/KakaoTalk_20240113_035319539_11.jpg"><img src="/assets/images/gallery3/KakaoTalk_20240113_035319539_11.jpg"></a>
      <figcaption>Japanese greater horseshoe bat (Rhinolophus nippon)</figcaption>
 </figure>
+
+## China (2024)
 
 
 ## Taiwan (2023)
