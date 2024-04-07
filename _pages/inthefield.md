@@ -273,6 +273,17 @@ author_profile: true
 </figure>
 
 ## China (2024)
+![image1](/assets/images/gallery5/20240301204430_IMG_5148.JPG)
+![image2](/assets/images/gallery5/20240301204635_IMG_5151.JPG)
+
+<style>
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-gap: 10px;
+}
+</style>
+
 <figure>
     <a href="/assets/images/gallery5/20240301204430_IMG_5148.JPG"><img src="/assets/images/gallery5/20240301204430_IMG_5148.JPG"></a>
      <figcaption>Rana dabieshanensis</figcaption>
