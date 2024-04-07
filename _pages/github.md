@@ -15,8 +15,8 @@ author_profile: true
 
 [Nonnative Geckos](https://github.com/yucheols/Gekko){: .btn .btn--info .text-center}
 
-<span style="font-size: 13pt;"> This repo is currently locked as private because the associated paper is currently under review. It will be publicly availabe once the paper is out. </span>
+<span style="font-size: 13pt;"> This repo is for a paper I did with collaborators from Kangwon National University Herp Lab and the National Institute of Ecology in South Korea. Here, we looked at establishment potentials of two gecko species introduced to South Korea (*Gekko japonicus* and *G. swinhonis*). We generated ecological niche models for the two species to map out their potential suitable habitats in South Korea, both under the current and future environmental conditions. In addition, we quantified and compared their niches to investigate whether their nonnative sympatry in some regions in South Korea is driven by shared ecological requirements. This repo contains the codes for niche modeling and niche analyses.</span>
 
 [ENMs in R](https://github.com/yucheols/ENMs_In_R){: .btn .btn--info .text-center}
 
-<span style="font-size: 13pt;"> This repo is for a workshop that I led at the Lab of Dr. Amaël Borzée (Nanjing Forestry University, China) this February. </span>
+<span style="font-size: 13pt;"> This repo is for a workshop that I led at the Lab of Dr. Amaël Borzée (Nanjing Forestry University, China) in February 2024. </span>
