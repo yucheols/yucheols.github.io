@@ -188,6 +188,31 @@ author_profile: true
 </figure> 
 
 <figure>
+    <a href="/assets/images/gallery3/KakaoTalk_20240408_114727921.jpg"><img src="/assets/images/gallery3/KakaoTalk_20240408_114727921.jpg"></a>
+     <figcaption>Habitat of Andrias japonicus</figcaption>
+</figure>
+
+<figure>
+    <a href="/assets/images/gallery3/KakaoTalk_20240408_114059355_03.jpg"><img src="/assets/images/gallery3/KakaoTalk_20240408_114059355_03.jpg"></a>
+     <figcaption>Hynobius okiensis</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery3/KakaoTalk_20240408_114059355_04.jpg"><img src="/assets/images/gallery3/KakaoTalk_20240408_114059355_04.jpg"></a>
+     <figcaption>Hynobius okiensis</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery3/KakaoTalk_20240408_114059355_06.jpg"><img src="/assets/images/gallery3/KakaoTalk_20240408_114059355_06.jpg"></a>
+     <figcaption>Hynobius okiensis</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery3/KakaoTalk_20240408_114727921_01.jpg"><img src="/assets/images/gallery3/KakaoTalk_20240408_114727921_01.jpg"></a>
+     <figcaption>Habitat of Hynobius okiensis</figcaption>
+</figure>
+
+<figure>
     <a href="/assets/images/gallery3/KakaoTalk_20240113_035319539_01.jpg"><img src="/assets/images/gallery3/KakaoTalk_20240113_035319539_01.jpg"></a>
      <figcaption>Hebius vibakari</figcaption>
 </figure> 
@@ -253,6 +278,16 @@ author_profile: true
 </figure>
 
 <figure>
+    <a href="/assets/images/gallery3/KakaoTalk_20240408_114059355_01.jpg"><img src="/assets/images/gallery3/KakaoTalk_20240408_114059355_01.jpg"></a>
+     <figcaption>Rana tagoi</figcaption>
+</figure>
+
+<figure>
+    <a href="/assets/images/gallery3/KakaoTalk_20240408_114059355.jpg"><img src="/assets/images/gallery3/KakaoTalk_20240408_114059355.jpg"></a>
+     <figcaption>Rana tagoi (eggs)</figcaption>
+</figure>
+
+<figure>
     <a href="/assets/images/gallery3/20240331222617_IMG_5297.JPG"><img src="/assets/images/gallery3/20240331222617_IMG_5297.JPG"></a>
      <figcaption>Bufo formosus</figcaption>
 </figure>
@@ -265,6 +300,16 @@ author_profile: true
 <figure>
     <a href="/assets/images/gallery3/20240331223705_IMG_5307.JPG"><img src="/assets/images/gallery3/20240331223705_IMG_5307.JPG"></a>
      <figcaption>Bufo formosus (in amplexus)</figcaption>
+</figure>
+
+<figure>
+    <a href="/assets/images/gallery3/KakaoTalk_20240408_113943375.jpg"><img src="/assets/images/gallery3/KakaoTalk_20240408_113943375.jpg"></a>
+     <figcaption>Bufo praetextatus</figcaption>
+</figure>
+
+<figure>
+    <a href="/assets/images/gallery3/KakaoTalk_20240408_114059355_02.jpg"><img src="/assets/images/gallery3/KakaoTalk_20240408_114059355_02.jpg"></a>
+     <figcaption>Bufo praetextatus</figcaption>
 </figure>
 
 <figure>
