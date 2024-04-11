@@ -11,11 +11,11 @@ author_profile: true
 <span style="font-size: 12pt;"> __*† Indicates co-first authorship*__ </span>
 
 ## 2024
-<span style="font-size: 14pt;"> I-K Park, __Y Shin__, H-J Baek, J Kim, D-I Kim, M Seok, Y Oh, D Park. 2024. Establishment potential for the two gecko species adapted to different climates, *Gekko japonicus* and *G. swinhonis*, introduced to South Korea. __*NeoBiota*__. [PDF]</span>
+<span style="font-size: 14pt;"> I-K Park, __Y Shin__, H-J Baek, J Kim, D-I Kim, M Seok, Y Oh, D Park. 2024. Establishment potential across South Korea for two gecko species, *Gekko japonicus* and *G. swinhonis*, adapted to different climates. __*NeoBiota*__. [PDF]</span>
 
-<span style="font-size: 14pt;"> JY Jeon, __Y Shin__, AJ Mularo, X Feng, JA DeWoody. 2024. The integration of whole-genome resequencing and ecological niche modeling to conserve profiles of local adaptation. __*Diversity and Distributions*__. [PDF]</span>
+<span style="font-size: 14pt;"> JY Jeon, __Y Shin__, AJ Mularo, X Feng, JA DeWoody. 2024. The integration of whole-genome resequencing and ecological niche modeling to conserve profiles of local adaptation. __*Diversity and Distributions*__. [PDF](/assets/publications/Jeon_et_al_2024)</span>
 
-<span style="font-size: 14pt;"> A Borzée, __Y Shin__, Y Bae, D Jeong, H Amin, M-S Min, SN Othman. 2024. S Min, SN Othman. 2024. From Korean to northeast Asian endemicity: on the occurrence of *Pelophylax chosenicus* along the Eastern Coastal Yellow Sea. __*Frontiers of Biogeography*__ 16: e62301. [PDF](/assets/publications/Borzee%20et%20al_2024.pdf)</span>
+<span style="font-size: 14pt;"> A Borzée, __Y Shin__, Y Bae, D Jeong, H Amin, M-S Min, SN Othman. 2024. S Min, SN Othman. 2024. From Korean to northeast Asian endemicity: on the occurrence of *Pelophylax chosenicus* along the Eastern Coastal Yellow Sea. __*Frontiers of Biogeography*__ 16: e62301. [PDF](/assets/publications/Borzee_et_al_2024.pdf)</span>
 
 <span style="font-size: 14pt;"> __Y Shin†__, K Heo†, SN Othman, Y Jang, M-S Min, A Borzée. 2024. Tracing the geographic origin of a nonnative Red-banded Snake (Colubridae: *Lycodon rufozonatus*) found on Jeju Island, Republic of Korea. __*Herpetologica*__ 80: 30-39. [PDF](/assets/publications/Shin_Heo_et_al_2024_Lycodon_Herpetologica.pdf)</span>
 
