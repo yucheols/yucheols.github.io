@@ -6,7 +6,7 @@ classes: wide
 author_profile: true
 ---
 
-<span style="font-size: 12pt;"> __Below are my GitHub repos associated with workshops and recently published studies__ </span>
+<span style="font-size: 12pt;"> __Below are my GitHub repos associated with workshops, recently published studies, and packages__ </span>
 
 [Nonnative Lycodon](https://github.com/yucheols/Lycodon_ENM_ver2){: .btn .btn--info .text-center}
 
@@ -20,7 +20,7 @@ author_profile: true
 
 [ENMwrap](https://github.com/yucheols/ENMwrap){: .btn .btn--info .text-center}
 
-<span style="font-size: 13pt;"> This is an R package that I started to develop recently. It is essentially a collection of custom functions that I've wrote to run models for my senior research thesis. This package utilizes existing R packages for running MaxEnt ecological niche models (ENMs), with options to test multiple species and background datasets. It also includes other miscellaneous functions to help with data formatting, plotting, etc. __Currently under development__ </span>
+<span style="font-size: 13pt;"> This is an R package that I started to develop recently. It is essentially a collection of custom functions that I've wrote to run models for my senior research thesis. This package utilizes existing R packages for running MaxEnt ecological niche models (ENMs), with options to test multiple species and background datasets. It also includes other miscellaneous functions to help with data formatting, plotting, etc. __Currently under development.__ </span>
 
 
 [ENMs in R](https://github.com/yucheols/ENMs_In_R){: .btn .btn--info .text-center}
