@@ -13,9 +13,9 @@ author_profile: true
 ## 2024
 <span style="font-size: 14pt;">A Borzée, A Angulo, H Meredith, J Groffen, ..., __Y Shin__, Y Bae, Z Wang, Z Qiu, R Pearce.2024. Protecting Japanese Giant Salamanders (*Andrias japonicus*) in the Nawa River Basin, Japan: policy recommendations addressing water pollution and waterway disruption. __*Frontiers in Amphibian and Reptile Science*__. [PDF]</span>
 
-<span style="font-size: 14pt;"> I-K Park, __Y Shin__, H-J Baek, J Kim, D-I Kim, M Seok, Y Oh, D Park. 2024. Establishment potential across South Korea for two gecko species, *Gekko japonicus* and *G. swinhonis*, adapted to different climates. __*NeoBiota*__. [PDF]</span>
-
 <span style="font-size: 14pt;"> JY Jeon, __Y Shin__, AJ Mularo, X Feng, JA DeWoody. 2024. The integration of whole-genome resequencing and ecological niche modeling to conserve profiles of local adaptation. __*Diversity and Distributions*__. [PDF](/assets/publications/Jeon_et_al_2024.pdf)</span>
+
+<span style="font-size: 14pt;"> I-K Park, __Y Shin__, H-J Baek, J Kim, D-I Kim, M Seok, Y Oh, D Park. 2024. Establishment potential across South Korea for two gecko species, *Gekko japonicus* and *G. swinhonis*, adapted to different climates. __*NeoBiota*__93: 39-62. [PDF](/assets/publications/Park_et_al_2024.pdf)</span>
 
 <span style="font-size: 14pt;"> A Borzée, __Y Shin__, Y Bae, D Jeong, H Amin, M-S Min, SN Othman. 2024. S Min, SN Othman. 2024. From Korean to northeast Asian endemicity: on the occurrence of *Pelophylax chosenicus* along the Eastern Coastal Yellow Sea. __*Frontiers of Biogeography*__ 16: e62301. [PDF](/assets/publications/Borzee_et_al_2024.pdf)</span>
 
