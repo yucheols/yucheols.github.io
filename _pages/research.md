@@ -12,5 +12,5 @@ author_profile: true
 ## Ecology, distribution, and conservation of the Korean herpetofauna
 ![research cover 3](/assets/images/research2.png)
 
-## Natural history and ecology of Salamanders
+## Natural history and ecology of salamanders
 ![research cover 4](/assets/images/Fig%201.jpg)
