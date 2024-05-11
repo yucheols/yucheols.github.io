@@ -132,6 +132,11 @@ author_profile: true
 </figure> 
 
 <figure>
+    <a href="/assets/images/gallery4/stejnegeri.jpg"><img src="/assets/images/gallery4/stejnegeri.jpg"></a>
+     <figcaption>Bufo stejnegeri</figcaption>
+</figure> 
+
+<figure>
     <a href="/assets/images/gallery4/sachalin.jpg"><img src="/assets/images/gallery4/sachalin.jpg"></a>
      <figcaption>Bufo sachalinensis</figcaption>
 </figure> 
