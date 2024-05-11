@@ -97,6 +97,11 @@ author_profile: true
 </figure> 
 
 <figure>
+    <a href="/assets/images/gallery4/Gekko1.jpg"><img src="/assets/images/gallery4/Gekko1.jpg"></a>
+     <figcaption>Gekko spp. (introduced population)</figcaption>
+</figure> 
+
+<figure>
     <a href="/assets/images/gallery4/karsenia.jpeg"><img src="/assets/images/gallery4/karsenia.jpeg"></a>
      <figcaption>Karsenia koreana</figcaption>
 </figure> 
