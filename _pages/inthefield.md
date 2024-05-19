@@ -98,8 +98,19 @@ author_profile: true
 
 <figure>
     <a href="/assets/images/gallery4/Gekko1.jpg"><img src="/assets/images/gallery4/Gekko1.jpg"></a>
-     <figcaption>Gekko spp. (introduced population)</figcaption>
+     <figcaption>Gekko swinhonis (introduced population)</figcaption>
 </figure> 
+
+<figure>
+    <a href="/assets/images/gallery4/Gekko3.jpg"><img src="/assets/images/gallery4/Gekko3.jpg"></a>
+     <figcaption>Gekko swinhonis (introduced population)</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery4/Gekko4.jpg"><img src="/assets/images/gallery4/Gekko4.jpg"></a>
+     <figcaption>Gekko swinhonis (introduced population)</figcaption>
+</figure> 
+
 
 <figure>
     <a href="/assets/images/gallery4/karsenia.jpeg"><img src="/assets/images/gallery4/karsenia.jpeg"></a>
