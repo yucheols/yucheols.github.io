@@ -128,9 +128,29 @@ author_profile: true
 </figure> 
 
 <figure>
-    <a href="/assets/images/gallery4/okor.jpg"><img src="/assets/images/gallery4/okor.jpg"></a>
+    <a href="/assets/images/gallery4/karsenia2.jpg"><img src="/assets/images/gallery4/karsenia2.jpg"></a>
+     <figcaption>Karsenia koreana</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery4/karsenia3.jpg"><img src="/assets/images/gallery4/karsenia3.jpg"></a>
+     <figcaption>Karsenia koreana</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery4/okor2.jpg"><img src="/assets/images/gallery4/okor2.jpg"></a>
      <figcaption>Onychodactylus koreanus</figcaption>
 </figure> 
+
+<figure>
+    <a href="/assets/images/gallery4/okor3.jpg"><img src="/assets/images/gallery4/okor3.jpg"></a>
+     <figcaption>Onychodactylus koreanus</figcaption>
+</figure>
+
+<figure>
+    <a href="/assets/images/gallery4/okor4.jpg"><img src="/assets/images/gallery4/okor4.jpg"></a>
+     <figcaption>Onychodactylus koreanus</figcaption>
+</figure>
 
 <figure>
     <a href="/assets/images/gallery4/okor_larva.jpg"><img src="/assets/images/gallery4/okor_larva.jpg"></a>
@@ -141,6 +161,11 @@ author_profile: true
     <a href="/assets/images/gallery4/leechii.jpeg"><img src="/assets/images/gallery4/leechii.jpeg"></a>
      <figcaption>Hynobius leechii</figcaption>
 </figure> 
+
+<figure>
+    <a href="/assets/images/gallery4/leechii2.jpg"><img src="/assets/images/gallery4/leechii2.jpg"></a>
+     <figcaption>Hynobius leechii</figcaption>
+</figure>
 
 <figure>
     <a href="/assets/images/gallery4/jejusal.jpeg"><img src="/assets/images/gallery4/jejusal.jpeg"></a>
