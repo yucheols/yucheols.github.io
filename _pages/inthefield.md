@@ -37,6 +37,16 @@ author_profile: true
 </figure> 
 
 <figure>
+    <a href="/assets/images/gallery4/Oocatochus1.jpg"><img src="/assets/images/gallery4/Oocatochus1.jpg"></a>
+     <figcaption>Oocatochus rufodorsatus</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery4/Oocatochus2.jpg"><img src="/assets/images/gallery4/Oocatochus2.jpg"></a>
+     <figcaption>Oocatochus rufodorsatus (juvenile)</figcaption>
+</figure> 
+
+<figure>
     <a href="/assets/images/gallery4/ooca.jpg"><img src="/assets/images/gallery4/ooca.jpg"></a>
      <figcaption>Oocatochus rufodorsatus</figcaption>
 </figure> 
@@ -190,6 +200,11 @@ author_profile: true
 <figure>
     <a href="/assets/images/gallery4/shrew.jpeg"><img src="/assets/images/gallery4/shrew.jpeg"></a>
      <figcaption>Shrew</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery4/strix.jpg"><img src="/assets/images/gallery4/strix.jpg"></a>
+     <figcaption>Ural owl (Strix uralensis)</figcaption>
 </figure> 
 
 <figure>
