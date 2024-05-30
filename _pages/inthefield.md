@@ -107,6 +107,11 @@ author_profile: true
 </figure> 
 
 <figure>
+    <a href="/assets/images/gallery4/vandenburghi.jpeg"><img src="/assets/images/gallery4/vandenburghi.jpeg"></a>
+     <figcaption>Scincella vandenburghi</figcaption>
+</figure> 
+
+<figure>
     <a href="/assets/images/gallery4/Gekko1.jpg"><img src="/assets/images/gallery4/Gekko1.jpg"></a>
      <figcaption>Gekko swinhonis (introduced population)</figcaption>
 </figure> 

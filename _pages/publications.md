@@ -11,7 +11,7 @@ author_profile: true
 <span style="font-size: 12pt;"> __*† Indicates co-first authorship*__ </span>
 
 ## 2024
-<span style="font-size: 14pt;">A Borzée, A Angulo, H Meredith, J Groffen, ..., __Y Shin__, Y Bae, Z Wang, Z Qiu, R Pearce.2024. Protecting Japanese Giant Salamanders (*Andrias japonicus*) in the Nawa River Basin, Japan: policy recommendations addressing water pollution and waterway disruption. __*Frontiers in Amphibian and Reptile Science*__. [PDF]</span>
+<span style="font-size: 14pt;">A Borzée, A Angulo, H Meredith, J Groffen, ..., __Y Shin__, Y Bae, Z Wang, Z Qiu, R Pearce.2024. Protecting Japanese Giant Salamanders (*Andrias japonicus*) in the Nawa River Basin, Japan: policy recommendations addressing water pollution and waterway disruption. __*Frontiers in Amphibian and Reptile Science*__ 2:1348251. [PDF](/assets/publications/Borzee_et_al_2024_Andrias.pdf)</span>
 
 <span style="font-size: 14pt;"> JY Jeon, __Y Shin__, AJ Mularo, X Feng, JA DeWoody. 2024. The integration of whole-genome resequencing and ecological niche modeling to conserve profiles of local adaptation. __*Diversity and Distributions*__ 30: e13847. [PDF](/assets/publications/Jeon_et_al_2024.pdf)</span>
 
