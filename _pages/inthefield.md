@@ -426,7 +426,7 @@ author_profile: true
 
 <figure>
     <a href="/assets/images/gallery5/babyowl.jpg"><img src="/assets/images/gallery5/babyowl.jpg"></a>
-     <figcaption>Eurasian eagle owl (Bubo bubo) (egg)</figcaption>
+     <figcaption>Eurasian eagle owl (Bubo bubo) </figcaption>
 </figure>
 
 <figure>
