@@ -424,6 +424,17 @@ author_profile: true
      <figcaption>Rana dabieshanensis (egg)</figcaption>
 </figure>
 
+<figure>
+    <a href="/assets/images/gallery5/babyowl.jpg"><img src="/assets/images/gallery5/babyowl.jpg"></a>
+     <figcaption>Eurasian eagle owl (Bubo bubo) (egg)</figcaption>
+</figure>
+
+<figure>
+    <a href="/assets/images/gallery5/hedge.jpg"><img src="/assets/images/gallery5/hedge.jpg"></a>
+     <figcaption>Amur hedgehog (Erinaceus amurensis)</figcaption>
+</figure>
+
+
 ## Taiwan (2023)
 <figure>
     <a href="/assets/images/gallery2/baibu.jpg"><img src="/assets/images/gallery2/baibu.jpg"></a>
