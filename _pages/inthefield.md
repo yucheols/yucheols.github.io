@@ -385,6 +385,36 @@ author_profile: true
 
 ## China (2024)
 <figure>
+    <a href="/assets/images/gallery5/schrenckii.jpg"><img src="/assets/images/gallery5/schrenckii.jpg"></a>
+     <figcaption>Elaphe schrenckii</figcaption>
+</figure>
+
+<figure>
+    <a href="/assets/images/gallery5/dione.jpg"><img src="/assets/images/gallery5/dione.jpg"></a>
+     <figcaption>Elaphe dione</figcaption>
+</figure>
+
+<figure>
+    <a href="/assets/images/gallery5/spinalis.jpg"><img src="/assets/images/gallery5/spinalis.jpg"></a>
+     <figcaption>Orientocoluber spinalis</figcaption>
+</figure>
+
+<figure>
+    <a href="/assets/images/gallery5/rhabdophis.jpg"><img src="/assets/images/gallery5/rhabdophis.jpg"></a>
+     <figcaption>Rhabdophis tigrinus</figcaption>
+</figure>
+
+<figure>
+    <a href="/assets/images/gallery5/brevicauda.jpg"><img src="/assets/images/gallery5/brevicauda.jpg"></a>
+     <figcaption>Gloydius brevicauda</figcaption>
+</figure>
+
+<figure>
+    <a href="/assets/images/gallery5/strauchbufo.jpg"><img src="/assets/images/gallery5/strauchbufo.jpg"></a>
+     <figcaption>Strauchbufo raddei</figcaption>
+</figure>
+
+<figure>
     <a href="/assets/images/gallery5/20240301204430_IMG_5148.JPG"><img src="/assets/images/gallery5/20240301204430_IMG_5148.JPG"></a>
      <figcaption>Rana dabieshanensis</figcaption>
 </figure>
