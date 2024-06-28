@@ -22,6 +22,11 @@ author_profile: true
 </figure> 
 
 <figure>
+    <a href="/assets/images/gallery4/schrenkii_yellow2.jpg"><img src="/assets/images/gallery4/schrenkii_yellow2.jpg"></a>
+     <figcaption>Elaphe schrenckii (yellow morph)</figcaption>
+</figure> 
+
+<figure>
     <a href="/assets/images/gallery4/schrenkii_black.jpeg"><img src="/assets/images/gallery4/schrenkii_black.jpeg"></a>
      <figcaption>Elaphe schrenckii (black morph)</figcaption>
 </figure> 
