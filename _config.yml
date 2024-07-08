@@ -123,7 +123,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:brongersmai2@gmail.com"
     - label: "CV"
-      icon: "fas fa-fw fa-file-pdf"
+      icon: "far fa-fw fa-file-pdf"
       # url: "/assets/files/Yucheol_Shin_CV_May_2024.pdf"
     - label: "Website"
       icon: "fas fa-fw fa-link"
