@@ -20,8 +20,8 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Yucheol Shin"
+description              : "Personal website"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -113,15 +113,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : #"Yucheol Shin"
+  avatar           : "/assets/images/profile.png"
+  bio              : "Herpetologist and evolutionary biologist from South Korea. Passionate about all herps, but especially interested in snakes and salamanders!"
+  location         : "South Korea"
+  email            : "brongersmai2@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      # url: "mailto:brongersmai2@gmail.com"
+    - label: "CV"
+      icon: "fas fa-fw fa-file-pdf"
+      # url: "/assets/files/Yucheol_Shin_CV_May_2024.pdf"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -140,19 +143,19 @@ author:
 
 # Site Footer
 footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+    links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
+      url: https://github.com/yucheols
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: https://www.facebook.com/shin.yucheol.7/
+    - label: "ResearchGate"
+      icon: #/assets/images/rglogo.png
+      url: https://www.researchgate.net/profile/Yucheol-Shin
+    - label: "iNaturalist"
+      icon: #"fab fa-fw fa-gitlab"
+      url: https://www.inaturalist.org/observations?place_id=any&user_id=yucheol_shin&verifiable=any
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
