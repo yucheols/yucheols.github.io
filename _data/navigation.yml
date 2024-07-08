@@ -1,12 +1,17 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "About"
+    url: https://yucheols.github.io/about/
+  - title: "Research"
+    url: https://yucheols.github.io/research/
+  - title: "Publications"
+    url: https://yucheols.github.io/publications/
+  - title: "In the field"
+    url: https://yucheols.github.io/inthefield/
+  - title: "GitHub"
+    url: https://yucheols.github.io/github/
+  - title: "Contact"
+    url: https://yucheols.github.io/contact/
+
+header_pages:
+   -about.md 
