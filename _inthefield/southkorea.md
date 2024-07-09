@@ -1,22 +1,22 @@
 ---
 title: "South Korea"
 header:
-  teaser: /assets/images/gallery4/schrenkii_yellow2.jpg
+  teaser: /assets/images/southkorea/schrenkii_yellow2.jpg
 gallery1:
-  - url: /assets/images/gallery4/schrenkii_grey.jpg
-    image_path: /assets/images/gallery4/schrenkii_grey.jpg
+  - url: /assets/images/southkorea/schrenkii_grey.jpg
+    image_path: /assets/images/southkorea/schrenkii_grey.jpg
     alt: "Elaphe schrenckii"
 gallery2:
-  - url: /assets/images/gallery4/schrenkii_yellow.jpeg
-    image_path: /assets/images/gallery4/schrenkii_yellow.jpeg
+  - url: /assets/images/southkorea/schrenkii_yellow.jpeg
+    image_path: /assets/images/southkorea/schrenkii_yellow.jpeg
     alt: "Elaphe schrenckii"
 gallery3:
-  - url: /assets/images/gallery4/schrenkii_yellow2.jpg
-    image_path: /assets/images/gallery4/schrenkii_yellow2.jpg
+  - url: /assets/images/southkorea/schrenkii_yellow2.jpg
+    image_path: /assets/images/southkorea/schrenkii_yellow2.jpg
     alt: "Elaphe schrenckii"
 gallery4:
-  - url: /assets/images/gallery4/schrenkii_black.jpeg
-    image_path: /assets/images/gallery4/schrenkii_black.jpeg
+  - url: /assets/images/southkorea/schrenkii_black.jpeg
+    image_path: /assets/images/southkorea/schrenkii_black.jpeg
     alt: "Elaphe schrenckii"
 ---
 
