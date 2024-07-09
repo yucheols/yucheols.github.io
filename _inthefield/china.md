@@ -1,5 +1,5 @@
 ---
-title: "South Korea"
+title: "China"
 header:
   teaser: /assets/images/southkorea/schrenkii_yellow2.jpg
 gallery1:
