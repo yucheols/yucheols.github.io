@@ -326,3 +326,22 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _inthefield
+  - scope:
+      path: ""
+      type: inthefield
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
+      sidebar:
+        nav: "inthefield"
+
+# Collections
+collections:
+  inthefield:
+    output: true
+    permalink: /:collection/:path/
