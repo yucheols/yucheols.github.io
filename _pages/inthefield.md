@@ -32,6 +32,11 @@ author_profile: true
 </figure> 
 
 <figure>
+    <a href="/assets/images/gallery4/schrenkii_black2.jpeg"><img src="/assets/images/gallery4/schrenkii_black2.jpeg"></a>
+     <figcaption>Elaphe schrenckii (black morph)</figcaption>
+</figure> 
+
+<figure>
     <a href="/assets/images/gallery4/schrenckii_juvie.jpg"><img src="/assets/images/gallery4/schrenckii_juvie.jpg"></a>
      <figcaption>Elaphe schrenckii (juvenile)</figcaption>
 </figure> 
@@ -69,6 +74,11 @@ author_profile: true
 <figure>
     <a href="/assets/images/gallery4/lycodon.jpg"><img src="/assets/images/gallery4/lycodon.jpg"></a>
      <figcaption>Lycodon rufozonatus</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery4/orientocoluber2.jpeg"><img src="/assets/images/gallery4/orientocoluber2.jpeg"></a>
+     <figcaption>Orientocoluber spinalis</figcaption>
 </figure> 
 
 <figure>
