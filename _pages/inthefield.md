@@ -77,6 +77,11 @@ author_profile: true
 </figure> 
 
 <figure>
+    <a href="/assets/images/gallery4/lycodon2.jpg"><img src="/assets/images/gallery4/lycodon2.jpg"></a>
+     <figcaption>Lycodon rufozonatus</figcaption>
+</figure> 
+
+<figure>
     <a href="/assets/images/gallery4/orientocoluber2.jpeg"><img src="/assets/images/gallery4/orientocoluber2.jpeg"></a>
      <figcaption>Orientocoluber spinalis</figcaption>
 </figure> 
