@@ -77,7 +77,7 @@ author_profile: true
 </figure> 
 
 <figure>
-    <a href="/assets/images/gallery4/lycodon2.jpg"><img src="/assets/images/gallery4/lycodon2.jpg"></a>
+    <a href="/assets/images/gallery4/lycodon2.JPG"><img src="/assets/images/gallery4/lycodon2.JPG"></a>
      <figcaption>Lycodon rufozonatus</figcaption>
 </figure> 
 
