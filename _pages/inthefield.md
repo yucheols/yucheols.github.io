@@ -107,6 +107,11 @@ author_profile: true
 </figure> 
 
 <figure>
+    <a href="/assets/images/gallery4/intermedius3.jpeg"><img src="/assets/images/gallery4/intermedius3.jpeg"></a>
+     <figcaption>Gloydius intermedius</figcaption>
+</figure> 
+
+<figure>
     <a href="/assets/images/gallery4/intermedius.jpeg"><img src="/assets/images/gallery4/intermedius.jpeg"></a>
      <figcaption>Gloydius intermedius</figcaption>
 </figure> 
