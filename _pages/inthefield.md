@@ -178,6 +178,11 @@ author_profile: true
 </figure> 
 
 <figure>
+    <a href="/assets/images/gallery4/okor5.jpeg"><img src="/assets/images/gallery4/okor5.jpeg"></a>
+     <figcaption>Onychodactylus koreanus</figcaption>
+</figure> 
+
+<figure>
     <a href="/assets/images/gallery4/okor2.jpg"><img src="/assets/images/gallery4/okor2.jpg"></a>
      <figcaption>Onychodactylus koreanus</figcaption>
 </figure> 
