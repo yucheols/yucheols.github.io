@@ -58,7 +58,7 @@ author_profile: true
 
 
 ## Short articles
-<span style="font-size: 14pt;"> I-K Park, __Y Shin__, D Park. 2024. Predation on a metamorphosing tadpole of the American Bullfrog, *Aquarana catesbeiana* (Shaw, 1802), by the fishing spider *Dolomedes sulfureus*, in the Republic of Korea. __*Herpetology Notes*__. [PDF] </span>
+<span style="font-size: 14pt;"> I-K Park, __Y Shin__, D Park. 2024. Predation on a metamorphosing tadpole of the American Bullfrog, *Aquarana catesbeiana* (Shaw, 1802), by the fishing spider *Dolomedes sulfureus*, in the Republic of Korea. __*Herpetology Notes*__ 17: 531-533. [PDF](/assets/publications/Park_et_al_2024_Bullfrog_predation_by_spider.pdf)</span>
 
 <span style="font-size: 14pt;"> __Y Shin__, J Miller, JM Duggan. 2021. Observations on the year round communal use of an artificial structure by Northern Pacific rattlesnakes (*Crotalus oreganus oreganus*) in coastal Central California. __*Herpetological Bulletin*__ 155: 25-27. [PDF](/assets/publications/Shin_et_al_2021_Crotalus_Herp_Bulletin.pdf) </span>
 
