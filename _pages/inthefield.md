@@ -287,6 +287,62 @@ author_profile: true
      <figcaption>Rhinoceros beetle (Trypoxylus dichotomus)</figcaption>
 </figure> 
 
+## Cambodia (2024)
+<figure>
+    <a href="/assets/images/gallery6/callo.jpeg"><img src="/assets/images/gallery6/callo.jpeg"></a>
+     <figcaption>Calloselasma rhodostoma</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery6/ahaetulla.jpeg"><img src="/assets/images/gallery6/ahaetulla.jpeg"></a>
+     <figcaption>Ahaetulla prasina</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery6/cyanea2.jpeg"><img src="/assets/images/gallery6/cyanea2.jpeg"></a>
+     <figcaption>Boiga cyanea</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery6/cyanea1.jpeg"><img src="/assets/images/gallery6/cyanea1.jpeg"></a>
+     <figcaption>Boiga cyanea</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery6/davisonii.jpeg"><img src="/assets/images/gallery6/davisonii.jpeg"></a>
+     <figcaption>Lycodon davisonii</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery6/pictus.jpeg"><img src="/assets/images/gallery6/pictus.jpeg"></a>
+     <figcaption>Dendrelaphis pictus</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery6/mereljcoxi.jpeg"><img src="/assets/images/gallery6/mereljcoxi.jpeg"></a>
+     <figcaption>Homalopsis mereljcoxi</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery6/dragon2.jpeg"><img src="/assets/images/gallery6/dragon2.jpeg"></a>
+     <figcaption>Physignathus cocincinus</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery6/dragon1.jpeg"><img src="/assets/images/gallery6/dragon1.jpeg"></a>
+     <figcaption>Physignathus cocincinus</figcaption>
+</figure>
+
+<figure>
+    <a href="/assets/images/gallery6/calotes.jpeg"><img src="/assets/images/gallery6/calotes.jpeg"></a>
+     <figcaption>Calotes versicolor</figcaption>
+</figure>
+
+<figure>
+    <a href="/assets/images/gallery6/tokay.jpeg"><img src="/assets/images/gallery6/tokay.jpeg"></a>
+     <figcaption>Gekko gecko</figcaption>
+</figure>
+
 ## Japan (2023 - 2024)
 <figure>
     <a href="/assets/images/gallery3/KakaoTalk_20240113_035319539.jpg"><img src="/assets/images/gallery3/KakaoTalk_20240113_035319539.jpg"></a>
