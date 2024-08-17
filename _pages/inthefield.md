@@ -323,6 +323,11 @@ author_profile: true
      <figcaption>Aeluroscalabotes felinus</figcaption>
 </figure> 
 
+<figure>
+    <a href="/assets/images/gallery7/nasutus.JPG"><img src="/assets/images/gallery7/nasutus.JPG"></a>
+     <figcaption>Pelobatrachus nasutus</figcaption>
+</figure> 
+
 ## Cambodia (2024)
 <figure>
     <a href="/assets/images/gallery6/callo.jpeg"><img src="/assets/images/gallery6/callo.jpeg"></a>
