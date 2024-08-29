@@ -287,6 +287,47 @@ author_profile: true
      <figcaption>Rhinoceros beetle (Trypoxylus dichotomus)</figcaption>
 </figure> 
 
+## Sarawak, Malaysia (2024)
+<figure>
+    <a href="/assets/images/gallery7/intestinalis.JPG"><img src="/assets/images/gallery7/intestinalis.JPG"></a>
+     <figcaption>Calliophis intestinalis</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery7/intestinalis_ventral.JPG"><img src="/assets/images/gallery7/intestinalis_ventral.JPG"></a>
+     <figcaption>Calliophis intestinalis</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery7/sumatranus.JPG"><img src="/assets/images/gallery7/sumatranus.JPG"></a>
+     <figcaption>Trimeresurus sumatranus</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery7/tsub.JPG"><img src="/assets/images/gallery7/tsub.JPG"></a>
+     <figcaption>Tropidolaemus subannulatus</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery7/mycterizans.JPG"><img src="/assets/images/gallery7/mycterizans.JPG"></a>
+     <figcaption>Ahaetulla mycterizans</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery7/pseudorabdion.JPG"><img src="/assets/images/gallery7/pseudorabdion.JPG"></a>
+     <figcaption>Pseudorabdion longiceps</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery7/felinus.JPG"><img src="/assets/images/gallery7/felinus.JPG"></a>
+     <figcaption>Aeluroscalabotes felinus</figcaption>
+</figure> 
+
+<figure>
+    <a href="/assets/images/gallery7/nasutus.JPG"><img src="/assets/images/gallery7/nasutus.JPG"></a>
+     <figcaption>Pelobatrachus nasutus</figcaption>
+</figure> 
+
 ## Cambodia (2024)
 <figure>
     <a href="/assets/images/gallery6/callo.jpeg"><img src="/assets/images/gallery6/callo.jpeg"></a>
