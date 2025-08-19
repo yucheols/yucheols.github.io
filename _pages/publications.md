@@ -11,7 +11,7 @@ author_profile: true
 <span style="font-size: 12pt;"> __*† Indicates co-first authorship*__ </span>
 
 ## 2025
-<span style="font-size: 14pt;">__Y Shin__, SN Othman, D Kohler, I Maslova, KR Messenger, A Borzée. *In press*. Contributions to the knowledge of pitvipers (Viperidae: *Gloydius*) in the Democratic People’s Republic of Korea: identification, description of specimens, and geographic distribution. __*ZooKeys*__</span>
+<span style="font-size: 14pt;">__Y Shin__, SN Othman, D Kohler, I Maslova, KR Messenger, A Borzée. *In press*. Contributions to the knowledge of pitvipers (Viperidae: *Gloydius*) in the Democratic People’s Republic of Korea: identification, description of specimens, and geographic distribution. __*ZooKeys*__ 1249: 193-221. [PDF](/assets/publications/Shin_et_al_2025_ZooKeys_DPRK_Gloydius.pdf)</span>
 
 ## 2024
 <span style="font-size: 14pt;">A Borzée, A Angulo, H Meredith, J Groffen, ..., __Y Shin__, Y Bae, Z Wang, Z Qiu, R Pearce. 2024. Protecting Japanese Giant Salamanders (*Andrias japonicus*) in the Nawa River Basin, Japan: policy recommendations addressing water pollution and waterway disruption. __*Frontiers in Amphibian and Reptile Science*__ 2: 1348251. [PDF](/assets/publications/Borzee_et_al_2024_Andrias.pdf)</span>
