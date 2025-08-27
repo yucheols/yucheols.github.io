@@ -16,4 +16,4 @@ author_profile: true
 ![research cover](/assets/images/climchange.jpg) 
 
 ## Natural history and ecology of salamanders
-![research cover 4](/assets/images/Fig%201.jpg)
+![research cover 4](/assets/images/salamander.jpg)
