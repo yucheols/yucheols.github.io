@@ -11,7 +11,7 @@ author_profile: true
 <span style="font-size: 12pt;"> __*† Indicates co-first authorship*__ </span>
 
 ## 2025
-<span style="font-size: 14pt;">__Y Shin__, A Borzée, D Park. 2025. Climatic data sources and limitations of ecological niche models impact the estimations of historical ranges and niche overlaps in distantly related Korean salamanders. __*BMC Ecology and Evolution*__. *In press*</span>
+<span style="font-size: 14pt;">__Y Shin__, A Borzée, D Park. 2025. Climatic data sources and limitations of ecological niche models impact the estimations of historical ranges and niche overlaps in distantly related Korean salamanders. __*BMC Ecology and Evolution*__. *In press*.</span>
 
 <span style="font-size: 14pt;">__Y Shin__, SN Othman, D Kohler, I Maslova, KR Messenger, A Borzée. 2025. Contributions to the knowledge of pitvipers (Viperidae: *Gloydius*) in the Democratic People’s Republic of Korea: identification, description of specimens, and geographic distribution. __*ZooKeys*__ 1249: 193-221. [PDF](/assets/publications/Shin_et_al_2025_ZooKeys_DPRK_Gloydius.pdf)</span>
 
