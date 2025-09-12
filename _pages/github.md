@@ -6,7 +6,16 @@ classes: wide
 author_profile: true
 ---
 
-<span style="font-size: 12pt;"> __Below are my GitHub repos associated with workshops, recently published studies, and packages__ </span>
+<span style="font-size: 12pt;"> __Below are my GitHub repos associated with ongoing projects, workshops, recently published studies, and software packages__ </span>
+
+[Oocatochus genome assembly](https://github.com/yucheols/Oocatochus_genome_assembly){: .btn .btn--info .text-center}
+<span style="font-size: 13pt;"> An ongoing project on PacBio HiFi whole-genome assembly of the Frog-eating ratsnake (*Oocatochus rufodorsatus*). </span>
+
+[Salamander ENMs](https://github.com/yucheols/TwoSalDist){: .btn .btn--info .text-center}
+<span style="font-size: 13pt;"> My undergrad thesis research that turned into a deep-dive into the behaviors of ecological niche models and niche overlap analyses under different baseline climatic data and model parameterization. </span>
+
+[DPRK Gloydius](https://github.com/yucheols/DPRK_Gloydius){: .btn .btn--info .text-center}
+<span style="font-size: 13pt;"> R scripts used for niche modeling and multivariate morphological analyses of *Gloydius* specimens from northeast Asia. </span>
 
 [Nonnative Lycodon](https://github.com/yucheols/Lycodon_ENM_ver2){: .btn .btn--info .text-center}
 
