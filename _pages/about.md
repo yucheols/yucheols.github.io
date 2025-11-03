@@ -5,7 +5,7 @@ permalink: /about/
 classes: wide
 author_profile: true
 ---
-[Curriculum Vitae](/assets/files/Yucheol_Shin_CV_Oct_2025.pdf){: .btn .btn--info .text-center}
+[Curriculum Vitae](/assets/files/Yucheol_Shin_CV_Nov_2025.pdf){: .btn .btn--info .text-center}
 
 
 ![snake image](/assets/images/elaphe_schrenckii_name.png){: .align-center}
