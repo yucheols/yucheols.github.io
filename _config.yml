@@ -314,6 +314,35 @@ compress_html:
 
 
 # Defaults
+#defaults:
+  # _posts
+#  - scope:
+#      path: ""
+#      type: posts
+#    values:
+#      layout: single
+#      author_profile: true
+#      read_time: true
+#      comments: # true
+#      share: true
+#      related: true
+  # _inthefield
+#  - scope:
+#      path: ""
+#      type: inthefield
+#    values:
+#      layout: single
+#      author_profile: false
+#      share: true
+
+
+# Collections
+#collections:
+#  inthefield:
+#    output: true
+#    permalink: /:collection/:path/
+ 
+# Defaults
 defaults:
   # _posts
   - scope:
@@ -323,27 +352,10 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
       share: true
       related: true
-  # _inthefield
-  - scope:
-      path: ""
-      type: inthefield
-    values:
-      layout: single
-      author_profile: false
-      share: true
 
-
-# Collections
-collections:
-  inthefield:
-    output: true
-    permalink: /:collection/:path/
- 
-# this was added to customize 'fieldwork' collection
-defaults:
+  # _fieldwork (your new collection)
   - scope:
       path: ""
       type: fieldwork
@@ -353,3 +365,9 @@ defaults:
       author_profile: true
       share: false
       related: false
+
+# Collections
+collections:
+  fieldwork:
+    output: true
+    permalink: /inthefield/:path/
