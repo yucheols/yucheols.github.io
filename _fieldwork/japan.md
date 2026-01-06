@@ -1,5 +1,5 @@
 ---
-title: "Japan (2023 - 2024)"
+title: "Japan (2023 - 2025)"
 excerpt: 
 header:
   teaser: /assets/images/japan/tsushimaensis.jpg
