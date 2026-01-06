@@ -3,7 +3,7 @@ title: "South Korea (2019–2024)"
 excerpt: "Highlights from island surveys and herping across Korea — snakes, salamanders, frogs, and friends."
 header:
   teaser: /assets/images/gallery4/schrenckii_brown.jpg
-permalink: /inthefield/south_korea/
+permalink: /inthefield/
 gallery:
   - url: /assets/images/gallery4/schrenckii_brown.jpg
     image_path: /assets/images/gallery4/schrenckii_brown.jpg
