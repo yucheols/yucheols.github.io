@@ -1,7 +1,14 @@
 ---
-layout: category #or page
-title: In the field
+#layout: category #or page
+#title: In the field
+#permalink: /inthefield/
+#classes: wide
+#author_profile: true
+title: "In the field"
 permalink: /inthefield/
+layout: collection
+collection: fieldwork
+entries_layout: grid   # makes “cards”
 classes: wide
 author_profile: true
 ---
