@@ -1,6 +1,6 @@
 ---
 title: "South Korea (2019–2024)"
-excerpt: "Highlights from island surveys and herping across Korea — snakes, salamanders, frogs, and friends."
+excerpt:
 header:
   teaser: /assets/images/gallery4/schrenckii_brown.jpg
 permalink: /inthefield/
@@ -15,4 +15,4 @@ gallery:
     title: "Elaphe schrenckii"
 ---
 
-{% include gallery caption="Some Korea highlights." %}
+{% include gallery %}
