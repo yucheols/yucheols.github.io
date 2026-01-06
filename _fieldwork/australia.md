@@ -3,7 +3,7 @@ title: "Australia (2024)"
 excerpt: 
 header:
   teaser: /assets/images/australia/olivaceus.jpeg
-permalink: /inthefield/
+permalink: /inthefield/australia/
 gallery:
   - url: /assets/images/australia/olivaceus.jpeg
     image_path: /assets/images/australia/olivaceus.jpeg

@@ -3,7 +3,7 @@ title: "South Korea (2019–2025)"
 excerpt:
 header:
   teaser: /assets/images/south_korea/schrenckii.jpg
-permalink: /inthefield/
+permalink: /inthefield/south_korea/
 gallery:
   - url: /assets/images/south_korea/schrenckii.jpg
     image_path: /assets/images/south_korea/schrenckii.jpg
