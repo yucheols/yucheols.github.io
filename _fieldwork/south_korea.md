@@ -2,7 +2,7 @@
 title: "South Korea (2019–2026)"
 excerpt:
 header:
-  teaser: /assets/images/south_korea/schrenckii.jpg
+  teaser: /assets/images/south_korea/brevicauda.jpg
 permalink: /inthefield/south_korea/
 gallery:
   - url: /assets/images/south_korea/schrenckii.jpg
