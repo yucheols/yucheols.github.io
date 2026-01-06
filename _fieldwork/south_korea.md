@@ -1,5 +1,5 @@
 ---
-title: "South Korea (2019–2025)"
+title: "South Korea (2019–2026)"
 excerpt:
 header:
   teaser: /assets/images/south_korea/schrenckii.jpg
