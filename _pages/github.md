@@ -8,9 +8,9 @@ author_profile: true
 
 <span style="font-size: 12pt;"> __Below are my GitHub repos associated with ongoing projects, workshops, recently published studies, and software packages__ </span>
 
-[Oocatochus genome assembly](https://github.com/yucheols/Oocatochus_genome_assembly){: .btn .btn--info .text-center}
+[Gloydius genome assembly](https://github.com/yucheols/Gloydius_ussuriensis_genome_assembly){: .btn .btn--info .text-center}
 
-<span style="font-size: 13pt;"> An ongoing project on PacBio HiFi whole-genome assembly of the Frog-eating ratsnake (*Oocatochus rufodorsatus*). </span>
+<span style="font-size: 13pt;"> An ongoing project on PacBio HiFi whole-genome assembly of the Ussuri Pitviper (*Gloydius ussuriensis*). </span>
 
 [Salamander ENMs](https://github.com/yucheols/TwoSalDist){: .btn .btn--info .text-center}
 
