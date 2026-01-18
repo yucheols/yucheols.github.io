@@ -41,7 +41,7 @@ gallery:
     alt: "Gloydius brevicauda"
     title: "Gloydius brevicauda"
   - url: /assets/images/south_korea/brevicauda2.jpg
-    image_path: /assets/images/south_korea/
+    image_path: /assets/images/south_korea/brevicauda2.jpg
     alt: "Gloydius brevicauda"
     title: "Gloydius brevicauda"
   - url: /assets/images/south_korea/ussuriensis.jpg
@@ -51,9 +51,11 @@ gallery:
   - url: /assets/images/south_korea/ussuriensis_dark.jpg
     image_path: /assets/images/south_korea/ussuriensis_dark.jpg
     alt: "Gloydius ussuriensis"
+    title: "Gloydius ussuriensis"
   - url: /assets/images/south_korea/intermedius.jpg
     image_path: /assets/images/south_korea/intermedius.jpg
     alt: "Gloydius intermedius"
+    title: "Gloydius intermedius"
   - url: /assets/images/south_korea/onychodactylus.jpg
     image_path: /assets/images/south_korea/onychodactylus.jpg
     alt: "Onychodactylus koreanus"
@@ -64,8 +66,8 @@ gallery:
     title: "Karsenia koreana"
   - url: /assets/images/south_korea/stejnegeri.jpg
     image_path: /assets/images/south_korea/stejnegeri.jpg
-    alt: Bufo stejnegeri
-    title: Bufo stejnegeri
+    alt: "Bufo stejnegeri"
+    title: "Bufo stejnegeri"
   - url: /assets/images/south_korea/sachalinensis.jpg
     image_path: /assets/images/south_korea/sachalinensis.jpg
     alt: "Bufo sachalinensis"
