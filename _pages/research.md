@@ -6,7 +6,7 @@ classes: wide
 author_profile: true
 ---
 
-## Island biogeography and community assembly
+## Island biogeography, community assembly, and evolution
 ![research cover](/assets/images/islands_snakes_vis.png)
 
 ## Non-native reptiles and amphibians in South Korea
