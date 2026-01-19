@@ -37,6 +37,7 @@ gallery:
     image_path: /assets/images/south_korea/hebius2.jpg
     alt: "Hebius vibakari"
     title: "Hebius vibakari"
+  - url: /assets/images/south_korea/brevicauda.jpg
     image_path: /assets/images/south_korea/brevicauda.jpg
     alt: "Gloydius brevicauda"
     title: "Gloydius brevicauda"
