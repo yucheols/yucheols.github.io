@@ -2,7 +2,7 @@
 title: "Costa Rica (2024)"
 excerpt: 
 header:
-  teaser: /assets/images/costa_rica/lachesis.jpeg
+  teaser: /assets/images/flags/costa_rica.png
 permalink: /inthefield/costa_rica/
 gallery:
   - url: /assets/images/costa_rica/porthidium.jpeg

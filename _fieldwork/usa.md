@@ -2,7 +2,7 @@
 title: "USA (2018 - 2026)"
 excerpt: 
 header:
-  teaser: /assets/images/usa/alleghaniensis.jpg
+  teaser: /assets/images/images/flags/usa.png
 permalink: /inthefield/usa/
 gallery:
   - url: /assets/images/usa/alleghaniensis.jpg

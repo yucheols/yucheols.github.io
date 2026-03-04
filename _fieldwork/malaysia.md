@@ -2,7 +2,7 @@
 title: "Malaysia (2024)"
 excerpt: 
 header:
-  teaser: /assets/images/malaysia/intestinalis.JPG
+  teaser: /assets/images/images/flags/malaysia.png
 permalink: /inthefield/malaysia/
 gallery:
   - url: /assets/images/malaysia/intestinalis.JPG

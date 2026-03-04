@@ -2,7 +2,7 @@
 title: "Cambodia (2024)"
 excerpt: 
 header:
-  teaser: /assets/images/cambodia/ahaetulla.jpeg
+  teaser: /assets/images/flags/cambodia.png
 permalink: /inthefield/cambodia/
 gallery:
   - url: /assets/images/cambodia/ahaetulla.jpeg
