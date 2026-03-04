@@ -2,7 +2,7 @@
 title: "Australia (2025)"
 excerpt: 
 header:
-  teaser: /assets/images/australia/olivaceus.jpeg
+  teaser: /assets/images/flags/australia.png
 permalink: /inthefield/australia/
 gallery:
   - url: /assets/images/australia/olivaceus.jpeg
