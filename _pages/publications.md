@@ -10,6 +10,9 @@ author_profile: true
 
 <span style="font-size: 12pt;"> __*† Indicates co-first authorship*__ </span>
 
+## 2026
+<span style="font-size: 14pt;">I-K Park, __Y Shin__, I-H Kim, D Park. *In press*. Global climatic impact on the sea kraits living near the tectonic plate boundaries. __*Ecological Informatics*__</span>
+
 ## 2025
 <span style="font-size: 14pt;">__Y Shin__, A Borzée, D Park. 2025. Climatic data sources and limitations of ecological niche models impact the estimations of historical ranges and niche overlaps in distantly related Korean salamanders. __*BMC Ecology and Evolution*__ 25: 105. [PDF](/assets/publications/Shin_et_al_2025_Salamander_ENM_BMC_Ecol_Evol.pdf)</span>
 
