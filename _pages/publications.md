@@ -11,7 +11,7 @@ author_profile: true
 <span style="font-size: 12pt;"> __*† Indicates co-first authorship*__ </span>
 
 ## 2026
-<span style="font-size: 14pt;">I-K Park, __Y Shin__, I-H Kim, D Park. *In press*. Global climatic impact on the sea kraits living near the tectonic plate boundaries. __*Ecological Informatics*__</span>
+<span style="font-size: 14pt;">I-K Park, __Y Shin__, I-H Kim, D Park. *In press*. Global climatic impact on the sea kraits living near the tectonic plate boundaries. __*Ecological Informatics*__ 95: 103727. [PDF](/assets/publications/Park_et_al_2026_Sea_Krait_ENM_Ecol_Inform.pdf)</span>
 
 ## 2025
 <span style="font-size: 14pt;">__Y Shin__, A Borzée, D Park. 2025. Climatic data sources and limitations of ecological niche models impact the estimations of historical ranges and niche overlaps in distantly related Korean salamanders. __*BMC Ecology and Evolution*__ 25: 105. [PDF](/assets/publications/Shin_et_al_2025_Salamander_ENM_BMC_Ecol_Evol.pdf)</span>
@@ -66,7 +66,7 @@ author_profile: true
 
 
 ## Short articles
-<span style="font-size: 14pt;">__Y Shin__. *In press*. Predation of the Japanese Keelback, *Hebius vibakari* (Boie, 1826), by the Ussuri Pitviper, *Gloydius ussuriensis* (Emelianov, 1929) in South Korea, with remarks on prey size. __*Herpetology Notes*__.</span>
+<span style="font-size: 14pt;">__Y Shin__. 2026. Predation of the Japanese Keelback, *Hebius vibakari* (Boie, 1826), by the Ussuri Pitviper, *Gloydius ussuriensis* (Emelianov, 1929) in South Korea, with remarks on prey size. __*Herpetology Notes*__ 19: 201-203. [PDF](/assets/publications/Shin_2026_Herp_Notes_G_ussuriensis_predation.pdf)</span>
 
 <span style="font-size: 14pt;"> A Borzée, __Y Shin__, T Shiraishi. 2025. Tail movements as an anti-predatory behaviour in *Hynobius okiensis* Sato, 1940. __*Herpetology Notes*__ 18: 225–227. [PDF](/assets/publications/Borzee_et_al_2025_Hynobius_okiensis_Herpetology_Notes.pdf)</span>
 
