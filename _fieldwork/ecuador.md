@@ -5,10 +5,10 @@ header:
   teaser: /assets/images/flags/ecuador.png
 permalink: /inthefield/ecuador/
 gallery:
-  - url: /assets/images/ecuador/
-    image_path: /assets/images/ecuador/
-    alt: ""
-    title: ""
+  - url: /assets/images/ecuador/lemniscatus.jpg
+    image_path: /assets/images/ecuador/lemniscatus.jpg
+    alt: "Micrurus lemniscatus"
+    title: "Micrurus lemniscatus"
 ---
 
 {% include gallery %}
