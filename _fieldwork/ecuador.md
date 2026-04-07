@@ -109,8 +109,8 @@ gallery:
     image_path: /assets/images/ecuador/corydalus.jpg
     alt: "Dobsonfly"
     title: "Dobsonfly"
-  - url: /assets/images/ecuador/
-    image_path: /assets/images/ecuador/
+  - url: /assets/images/ecuador/jungle.jpg
+    image_path: /assets/images/ecuador/jungle.jpg
     alt: "Parque Nacional Sumaco Napo-Galeras"
     title: "Parque Nacional Sumaco Napo-Galeras"
   - url: /assets/images/ecuador/mindo.jpg
