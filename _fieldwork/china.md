@@ -1,5 +1,5 @@
 ---
-title: "China (2024)"
+title: "China (2024-2026)"
 excerpt: 
 header:
   teaser: /assets/images/flags/china.png
