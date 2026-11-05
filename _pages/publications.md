@@ -11,7 +11,9 @@ author_profile: true
 <span style="font-size: 12pt;"> __*† Indicates co-first authorship*__ </span>
 
 ## 2026
-<span style="font-size: 14pt;">Y Peng, C Yang, DB Kohler, W Yu, H Li, C Zhong, __Y Shin__, Z Piao, G Cao, W Zhu, A Borzée, Y Li. *In press*. Turf wars or distant neighbors : drivers of geographic isolation in three species of alpine mammals in northeast Asia. __*Integrative Zoology*__.</span>
+<span style="font-size: 14pt;">Y Zeng, J Park, __Y Shin__, D Park, S Deban. *In press*. Feeding in the Korean plethodontid salamander *Karsenia* and its evolutionary implications. __*Journal of Morphology*__.</span>
+
+<span style="font-size: 14pt;">Y Peng, C Yang, DB Kohler, W Yu, H Li, C Zhong, __Y Shin__, Z Piao, G Cao, W Zhu, A Borzée, Y Li. 2026. Environmental drivers of geographic isolation in three pika species in northeast Asia. __*Integrative Zoology (Early View)*__. [PDF](/assets/publications/Peng_et_al_2026_EarlyView.pdf)</span>
 
 <span style="font-size: 14pt;">I-K Park, __Y Shin__, I-H Kim, D Park. 2026. Global climatic impact on the sea kraits living near the tectonic plate boundaries. __*Ecological Informatics*__ 95: 103727. [PDF](/assets/publications/Park_et_al_2026_Sea_Krait_ENM_Ecol_Inform.pdf)</span>
 
