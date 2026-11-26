@@ -13,7 +13,7 @@ author_profile: true
 ## 2026
 <span style="font-size: 14pt;">NR Balchan†, OM Edwards†, __Y Shin__, KM Banks, MS Reichert, LN Barrow, D Esquerré. *In press*. Biogeographic history and Bergmann’s rule, not genetic isolation, drive genetic and morphological differentiation in crawfish frogs (*Rana areolata*). __*Journal of Biogeography*__.</span>
 
-<span style="font-size: 14pt;">Y Zeng, J Park, __Y Shin__, D Park, S Deban. *In press*. Feeding in the Korean plethodontid salamander *Karsenia* and its evolutionary implications. __*Journal of Morphology*__ 287: e70195. [PDF](/assets/publications/Zeng_et_al_2026_Karsenia_feeding_J_Morpho.pdf)</span>
+<span style="font-size: 14pt;">Y Zeng, J Park, __Y Shin__, D Park, S Deban. 2026. Feeding in the Korean plethodontid salamander *Karsenia* and its evolutionary implications. __*Journal of Morphology*__ 287: e70195. [PDF](/assets/publications/Zeng_et_al_2026_Karsenia_feeding_J_Morpho.pdf)</span>
 
 <span style="font-size: 14pt;">Y Peng, C Yang, DB Kohler, W Yu, H Li, C Zhong, __Y Shin__, Z Piao, G Cao, W Zhu, A Borzée, Y Li. 2026. Environmental drivers of geographic isolation in three pika species in northeast Asia. __*Integrative Zoology (Early View)*__. [PDF](/assets/publications/Peng_et_al_2026_EarlyView.pdf)</span>
 
